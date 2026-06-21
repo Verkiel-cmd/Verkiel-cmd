@@ -10,8 +10,7 @@ A passionate Full-Stack Developer focused on building clean, efficient, and user
 
 ### 💻 Featured Projects
 
-* **[Student Management Frontend](https://github.com/Verkiel-cmd/student-management-frontend)** - A responsive admin dashboard prototype built to streamline student data management.
-* **[Student Management Backend](https://github.com/Verkiel-cmd/student-management-backend)** - The robust architecture powering the frontend, handling secure data processing and routing.
+* **[Student Management System](https://github.com/Verkiel-cmd/student-management-frontend)** - A comprehensive full-stack platform featuring a responsive admin dashboard prototype built to streamline data management, backed by a robust server architecture handling secure data processing and routing.
 
 ---
 
