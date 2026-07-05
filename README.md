@@ -46,3 +46,15 @@ A passionate Full-Stack Developer focused on building clean, efficient, and user
   <img src="https://github-readme-stats-alpha.vercel.app/api?username=Verkiel-cmd&show_icons=true&theme=tokyonight&border_radius=10" alt="Verkiel's GitHub Stats" height="180" />
   <img src="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=Verkiel-cmd&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" height="180" />
 </p>
+
+### 📊 Live Deployment Statistics
+
+| Metric | Status | Details |
+| :--- | :---: | :--- |
+| **Last Commit** | ![Last Commit](https://img.shields.io/github/last-commit/Verkiel-cmd/PRODUCTION_student-management-frontend?style=flat-square&logo=git) | Auto-updated on every push |
+| **Backend Status** | ![Render Status](https://img.shields.io/badge/Render-Running-brightgreen?style=flat-square&logo=render) | Aiven DB + Render API Active |
+| **Frontend Status** | ![Netlify Status](https://img.shields.io/badge/Netlify-Running-00C7B7?style=flat-square&logo=netlify) | Deployed via CI/CD |
+| **License** | ![License](https://img.shields.io/github/license/Verkiel-cmd/PRODUCTION_student-management-frontend?style=flat-square) | Open Source |
+
+#### 📈 Development Activity
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Verkiel-cmd&repo=PRODUCTION_student-management-frontend&layout=compact&theme=tokyonight&border_radius=8)   
