@@ -57,4 +57,4 @@ A passionate Full-Stack Developer focused on building clean, efficient, and user
 | **License** | ![License](https://img.shields.io/github/license/Verkiel-cmd/PRODUCTION_student-management-frontend?style=flat-square) | Open Source |
 
 #### 📈 Development Activity
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Verkiel-cmd&repo=PRODUCTION_student-management-frontend&layout=compact&theme=tokyonight&border_radius=8)   
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Verkiel-cmd&repo=PRODUCTION_student-management-frontend&layout=compact&theme=tokyonight&border_radius=10&hide=markdown)
