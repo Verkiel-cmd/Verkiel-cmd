@@ -52,8 +52,8 @@ A passionate Full-Stack Developer focused on building clean, efficient, and user
 | Metric | Status | Details |
 | :--- | :---: | :--- |
 | **Last Commit** | ![Last Commit](https://img.shields.io/github/last-commit/Verkiel-cmd/PRODUCTION_student-management-frontend?style=flat-square&logo=git) | Auto-updated on every push |
-| **Backend Status** | ![Render Status](https://img.shields.io/badge/Render-Running-brightgreen?style=flat-square&logo=render) | Aiven DB + Render API Active |
-| **Frontend Status** | ![Netlify Status](https://img.shields.io/badge/Netlify-Running-00C7B7?style=flat-square&logo=netlify) | Deployed via CI/CD |
+| **Backend Status** | ![Render Status](https://img.shields.io/github/actions/workflow/status/Verkiel-cmd/PRODUCTION_student-management-backend/deploy.yml?branch=main&label=Render&style=flat-square&logo=render) | Aiven DB + Render API Active |
+| **Frontend Status** | ![Netlify Status](https://img.shields.io/github/actions/workflow/status/Verkiel-cmd/PRODUCTION_student-management-frontend/deploy.yml?branch=main&label=Netlify&style=flat-square&logo=netlify) | Deployed via CI/CD |
 | **License** | ![License](https://img.shields.io/github/license/Verkiel-cmd/PRODUCTION_student-management-frontend?style=flat-square) | Open Source |
 
 #### 📈 Development Activity
