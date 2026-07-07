@@ -47,7 +47,7 @@ A passionate Full-Stack Developer focused on building clean, efficient, and user
   <img src="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=Verkiel-cmd&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" height="180" />
 </p>
 
-### 📊 Live Deployment Statistics
+### 📊 Live Student Management System Deployment Statistics
 
 | Metric | Status | Details |
 | :--- | :---: | :--- |
