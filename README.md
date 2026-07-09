@@ -58,4 +58,6 @@ A passionate Full-Stack Developer focused on building clean, efficient, and user
 
 #### 📈 Development Activity
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Verkiel-cmd&theme=tokyo-night&hide_border=true&border_radius=10&line=2CB67D&point=FFFFFF&color=2CB67D)
-![GitHub Streak](https://streak-stats.demolab.com?user=Verkiel-cmd&theme=tokyonight&border_radius=10&border=2CB67D)
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Verkiel-cmd&theme=tokyonight&border_radius=10&border=2CB67D" alt="GitHub Streak" />
+</div>
