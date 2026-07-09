@@ -88,22 +88,28 @@ A passionate Full-Stack Developer focused on building clean, efficient, and user
   <img src="https://github-readme-stats-alpha.vercel.app/api/pin/?username=Verkiel-cmd&repo=PRODUCTION_student-management-backend&theme=tokyonight&border_radius=10" alt="Backend Telemetry" height="150" />
 </div>
 
-### 📊 The Dynamic Git Contributor Heatmap
+### 🐙 The GitHub Profile Summary 3D Card Array
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Verkiel-cmd&layout=donut&theme=tokyonight&border_radius=10" alt="Language Matrix Donut" height="200" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Verkiel-cmd&theme=tokyonight" alt="Overall Profile Summary Card" />
 </div>
 
-### 📈 Advanced Multi-Metric Progress
+### 📦 Isometric Activity Calendar
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Verkiel-cmd&show=reviews,prs_merged,prs_merged_percentage&theme=tokyonight&border_radius=10&hide=stars,commits,prs,issues,contribs" alt="System Delta Operational Progress Bars" height="160" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Verkiel-cmd&theme=tokyo-night&area=true&hide_border=true" alt="Holographic Activity Timeline" width="100%" />
 </div>
 
-### 🗺️ Global Contributor Server Heatmap
+### 📊 High-Density Repo Star History Sparkline
 
 <div align="center">
-  <img src="https://github-profile-plot.vercel.app/api/map?username=Verkiel-cmd&theme=tokyonight" alt="Global Cluster Traffic Nodes" width="100%" />
+  <img src="https://api.star-history.t9t.io/svg?repos=Verkiel-cmd/PRODUCTION_student-management-frontend,Verkiel-cmd/PRODUCTION_student-management-backend&theme=dark" alt="System Data Growth Graph" width="100%" />
+</div>
+
+### 🚀 Live Global Network Contributor Nodes
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Verkiel-cmd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Global Network Performance" />
 </div>
 
 #### 📈 Development Activity
