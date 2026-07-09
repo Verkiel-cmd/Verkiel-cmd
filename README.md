@@ -70,11 +70,6 @@ A passionate Full-Stack Developer focused on building clean, efficient, and user
 | **Frontend Status** | ![Netlify Status](https://img.shields.io/github/actions/workflow/status/Verkiel-cmd/PRODUCTION_student-management-frontend/main.yml?branch=main&label=Netlify&style=flat-square&logo=netlify) | Live Deployed via CI/CD Active |
 | **License** | ![License](https://img.shields.io/github/license/Verkiel-cmd/PRODUCTION_student-management-frontend?style=flat-square) | Open Source |
 
-<!-- Live Terminal Typing Simulation -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2CB67D&center=true&vCenter=true&width=500&lines=Initializing+Student+Management+Cluster...;Syncing+Live+Render+Endpoints...;Aiven+Database+Uplink+Secured...;System+Status%3A+Fully+Operational" alt="Terminal Logs" />
-</div>
-
 ### 🛠️ Tech Stack Matrix & Sub-Systems
 
 <!-- Clean, Color-Coordinated Minimalist Tech Icons Grid -->
