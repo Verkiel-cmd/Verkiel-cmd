@@ -94,10 +94,10 @@ A passionate Full-Stack Developer focused on building clean, efficient, and user
   <img src="https://github-contribution-card.vercel.app/api?username=Verkiel-cmd&theme=tokyonight&show_contributor_rank=true" alt="Repository Impact Matrix" />
 </div>
 
-### 📊 GitHub Metrics 3D Bar Chart
+### 🟢 The Continuous Code Flow Line Graph
 
 <div align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=Verkiel-cmd&theme=tokyonight" alt="3D Dev Matrix" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Verkiel-cmd&theme=tokyo-night&area=true&hide_border=true&color=2CB67D" alt="Code Pipeline Line Graph" width="100%" />
 </div>
 
 #### 📈 Development Activity
