@@ -89,12 +89,8 @@ A passionate Full-Stack Developer focused on building clean, efficient, and user
 </div>
 
 ### 🐙 The GitHub Profile Summary Pie Card
-
 <div align="center">
-  <!-- Your own custom title where you can change the color to ANYTHING -->
-  <font size="4" color="#2CB67D"><b>Top Languages by Commit</b></font>
-  <br />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Verkiel-cmd&theme=tokyonight&hide_title=true" alt="Language Commit Pie Matrix" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Verkiel-cmd&theme=tokyonight" alt="Language Commit Pie Matrix" />
 </div>
 
 #### 📈 Development Activity
