@@ -67,20 +67,6 @@ A passionate Full-Stack Developer focused on building clean, efficient, and user
   <img src="https://komarev.com/ghpvc/?username=Verkiel-cmd&color=7aa2f7&style=flat-square&label=TERMINAL+ACCESS+COUNT" alt="Network Traffic Counter" />
 </div>
 
-### 📊 Real-Time Network Traffic & Analytical Matrix
-
-<!-- Dynamic Terminal Access Tracker -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Verkiel-cmd&color=7aa2f7&style=flat-square&label=TERMINAL+ACCESS+COUNT" alt="Network Traffic Counter" />
-</div>
-
-<br />
-
-<!-- Activity Time Grid -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Verkiel-cmd&theme=tokyo-night&hide_border=true&border_radius=10&line=2CB67D&point=FFFFFF&color=2CB67D" alt="Activity Graph" width="100%" />
-</div>
-
 <br />
 
 <!-- Centered Active Daily Streak -->
