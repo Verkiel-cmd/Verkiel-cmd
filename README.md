@@ -88,12 +88,6 @@ A passionate Full-Stack Developer focused on building clean, efficient, and user
   <img src="https://github-readme-stats-alpha.vercel.app/api/pin/?username=Verkiel-cmd&repo=PRODUCTION_student-management-backend&theme=tokyonight&border_radius=10" alt="Backend Telemetry" height="150" />
 </div>
 
-### 📊 Repository Traction Sparkline
-
-<div align="center">
-  <img src="https://api.star-history.t9t.io/svg?repos=Verkiel-cmd/PRODUCTION_student-management-frontend,Verkiel-cmd/PRODUCTION_student-management-backend&theme=dark" alt="System Data Growth Graph" width="100%" />
-</div>
-
 #### 📈 Development Activity
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Verkiel-cmd&theme=tokyo-night&area=true&hide_border=true" alt="Holographic Activity Timeline" width="100%" />
