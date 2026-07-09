@@ -40,6 +40,20 @@ A passionate Full-Stack Developer focused on building clean, efficient, and user
 
 ---
 
+### 🖥️ Mainframe Core Activity Logs
+
+<!-- Futuristic Cyberpunk Wave Divider -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=120&section=header&text=CORE%20MATRIX%20ONLINE&fontSize=30&theme=tokyonight" width="100%" />
+</div>
+
+<br />
+
+<!-- Live Terminal Typing Simulation -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2CB67D&center=true&vCenter=true&width=500&lines=Initializing+Student+Management+Cluster...;Syncing+Live+Render+Endpoints...;Aiven+Database+Uplink+Secured...;System+Status%3A+Fully+Operational" alt="Terminal Logs" />
+</div>
+
 <div align="center">
 <h2> 📊 Live Student Management System Deployment Statistics </h2> 
 
@@ -57,20 +71,6 @@ A passionate Full-Stack Developer focused on building clean, efficient, and user
   <img src="https://github-readme-stats-alpha.vercel.app/api?username=Verkiel-cmd&show_icons=true&theme=tokyonight&border_radius=10" alt="Verkiel's GitHub Stats" height="180" />
   <img src="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=Verkiel-cmd&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" height="180" />
 </p>
-
-### 🖥️ Mainframe Core Activity Logs
-
-<!-- Futuristic Cyberpunk Wave Divider -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=120&section=header&text=CORE%20MATRIX%20ONLINE&fontSize=30&theme=tokyonight" width="100%" />
-</div>
-
-<br />
-
-<!-- Live Terminal Typing Simulation -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2CB67D&center=true&vCenter=true&width=500&lines=Initializing+Student+Management+Cluster...;Syncing+Live+Render+Endpoints...;Aiven+Database+Uplink+Secured...;System+Status%3A+Fully+Operational" alt="Terminal Logs" />
-</div>
 
 ### 🛠️ Tech Stack Matrix & Sub-Systems
 
