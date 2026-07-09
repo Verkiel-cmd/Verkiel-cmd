@@ -94,10 +94,10 @@ A passionate Full-Stack Developer focused on building clean, efficient, and user
   <img src="https://github-contribution-card.vercel.app/api?username=Verkiel-cmd&theme=tokyonight&show_contributor_rank=true" alt="Repository Impact Matrix" />
 </div>
 
-### 🕒 Deep Project Integration Timelines
+### 📊 The High-Density Repo Language Pie Chart
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Verkiel-cmd&show=reviews,prs_merged,prs_merged_percentage&theme=tokyonight&hide=stars,commits,prs,issues,contribs&show_icons=true" alt="Operational Pipeline Velocity" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Verkiel-cmd&layout=donut&theme=tokyonight&border_radius=10" alt="Language Matrix Donut Chart" height="220" />
 </div>
 
 #### 📈 Development Activity
