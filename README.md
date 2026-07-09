@@ -61,3 +61,7 @@ A passionate Full-Stack Developer focused on building clean, efficient, and user
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Verkiel-cmd&theme=tokyonight&border_radius=10&border=2CB67D" alt="GitHub Streak" />
 </div>
+<!-- Dynamic Visitor Laser Counter -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Verkiel-cmd&color=7aa2f7&style=flat-square&label=TERMINAL+ACCESS+COUNT" alt="Network Traffic Counter" />
+</div>
