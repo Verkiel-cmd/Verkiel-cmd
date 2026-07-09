@@ -65,3 +65,30 @@ A passionate Full-Stack Developer focused on building clean, efficient, and user
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Verkiel-cmd&color=7aa2f7&style=flat-square&label=TERMINAL+ACCESS+COUNT" alt="Network Traffic Counter" />
 </div>
+
+### 🖥️ Mainframe Core Activity Logs
+
+<!-- Futuristic Cyberpunk Wave Divider -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=120&section=header&text=CORE%20MATRIX%20ONLINE&fontSize=30&theme=tokyonight" width="100%" />
+</div>
+
+<br />
+
+<!-- Live Terminal Typing Simulation -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2CB67D&center=true&vCenter=true&width=500&lines=Initializing+Student+Management+Cluster...;Syncing+Live+Render+Endpoints...;Aiven+Database+Uplink+Secured...;System+Status%3A+Fully+Operational" alt="Terminal Logs" />
+</div>
+
+<br />
+
+### 🛠️ Tech Stack Matrix & Sub-Systems
+
+<!-- Clean, Color-Coordinated Minimalist Tech Icons Grid -->
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
+</p>
