@@ -94,11 +94,11 @@ A passionate Full-Stack Developer focused on building clean, efficient, and user
 </div>
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Verkiel-cmd&theme=dark" alt="Language Commit Pie Matrix" />
-
+</div>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Verkiel-cmd&theme=tokyonight&border_radius=10&border=2CB67D" alt="GitHub Streak" />
 </div>
-</div>
+
 <!-- Dynamic Visitor Laser Counter -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Verkiel-cmd&color=7aa2f7&style=flat-square&label=TERMINAL+ACCESS+COUNT" alt="Network Traffic Counter" />
