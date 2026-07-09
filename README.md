@@ -56,16 +56,6 @@ A passionate Full-Stack Developer focused on building clean, efficient, and user
 | **Frontend Status** | ![Netlify Status](https://img.shields.io/github/actions/workflow/status/Verkiel-cmd/PRODUCTION_student-management-frontend/main.yml?branch=main&label=Netlify&style=flat-square&logo=netlify) | Live Deployed via CI/CD Active |
 | **License** | ![License](https://img.shields.io/github/license/Verkiel-cmd/PRODUCTION_student-management-frontend?style=flat-square) | Open Source |
 
-#### 📈 Development Activity
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Verkiel-cmd&theme=tokyo-night&hide_border=true&border_radius=10&line=2CB67D&point=FFFFFF&color=2CB67D)
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Verkiel-cmd&theme=tokyonight&border_radius=10&border=2CB67D" alt="GitHub Streak" />
-</div>
-<!-- Dynamic Visitor Laser Counter -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Verkiel-cmd&color=7aa2f7&style=flat-square&label=TERMINAL+ACCESS+COUNT" alt="Network Traffic Counter" />
-</div>
-
 ### 🖥️ Mainframe Core Activity Logs
 
 <!-- Futuristic Cyberpunk Wave Divider -->
@@ -92,3 +82,13 @@ A passionate Full-Stack Developer focused on building clean, efficient, and user
   <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
 </p>
+
+#### 📈 Development Activity
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Verkiel-cmd&theme=tokyo-night&hide_border=true&border_radius=10&line=2CB67D&point=FFFFFF&color=2CB67D)
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Verkiel-cmd&theme=tokyonight&border_radius=10&border=2CB67D" alt="GitHub Streak" />
+</div>
+<!-- Dynamic Visitor Laser Counter -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Verkiel-cmd&color=7aa2f7&style=flat-square&label=TERMINAL+ACCESS+COUNT" alt="Network Traffic Counter" />
+</div>
