@@ -94,10 +94,10 @@ A passionate Full-Stack Developer focused on building clean, efficient, and user
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Verkiel-cmd&theme=tokyonight" alt="Language Commit Pie Matrix" />
 </div>
 
-### 📊 Automated Profile Traffic Monitor
+### 📈 Interactive Weekly Productivity Activity Radar
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Verkiel-cmd&color=2CB67D&style=flat-square&label=CORE+MAINFRAME+TRAFFIC" alt="Network Traffic Counter" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commit-team-branch?username=Verkiel-cmd&theme=tokyonight" alt="Weekly Code Velocity Radar" />
 </div>
 
 #### 📈 Development Activity
