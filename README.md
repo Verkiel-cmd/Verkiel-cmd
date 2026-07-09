@@ -88,10 +88,6 @@ A passionate Full-Stack Developer focused on building clean, efficient, and user
   <img src="https://github-readme-stats-alpha.vercel.app/api/pin/?username=Verkiel-cmd&repo=PRODUCTION_student-management-backend&theme=tokyonight&border_radius=10" alt="Backend Telemetry" height="150" />
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=120&section=header&text=CORE%20MATRIX%20ONLINE&fontSize=30&theme=tokyonight" width="100%" />
-</div>
-
 #### 📈 Development Activity
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Verkiel-cmd&theme=tokyo-night&hide_border=true&border_radius=10&line=2CB67D&point=FFFFFF&color=2CB67D)
 <div align="center">
