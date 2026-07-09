@@ -94,10 +94,10 @@ A passionate Full-Stack Developer focused on building clean, efficient, and user
   <img src="https://github-contribution-card.vercel.app/api?username=Verkiel-cmd&theme=tokyonight&show_contributor_rank=true" alt="Repository Impact Matrix" />
 </div>
 
-### 📊 The High-Density Repo Language Pie Chart
+### 📊 Real-Time Language Pie Graph
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Verkiel-cmd&layout=donut&theme=tokyonight&border_radius=10" alt="Language Matrix Donut Chart" height="220" />
+  <img src="https://github-readme-languages.vercel.app/api?username=Verkiel-cmd&theme=tokyonight&layout=donut" alt="Language Matrix Pie Graph" height="220" />
 </div>
 
 #### 📈 Development Activity
