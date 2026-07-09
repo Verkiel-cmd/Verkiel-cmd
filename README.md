@@ -47,6 +47,13 @@ A passionate Full-Stack Developer focused on building clean, efficient, and user
   <img src="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=Verkiel-cmd&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" height="180" />
 </p>
 
+### 🖥️ Mainframe Core Activity Logs
+
+<!-- Futuristic Cyberpunk Wave Divider -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=120&section=header&text=CORE%20MATRIX%20ONLINE&fontSize=30&theme=tokyonight" width="100%" />
+</div>
+
 ### 📊 Live Student Management System Deployment Statistics
 
 | Metric | Status | Details |
@@ -55,15 +62,6 @@ A passionate Full-Stack Developer focused on building clean, efficient, and user
 | **Backend Status** | ![Render Status](https://img.shields.io/github/actions/workflow/status/Verkiel-cmd/PRODUCTION_student-management-backend/main.yml?branch=main&label=Render&style=flat-square&logo=render) | Live Aiven DB + Render API Active |
 | **Frontend Status** | ![Netlify Status](https://img.shields.io/github/actions/workflow/status/Verkiel-cmd/PRODUCTION_student-management-frontend/main.yml?branch=main&label=Netlify&style=flat-square&logo=netlify) | Live Deployed via CI/CD Active |
 | **License** | ![License](https://img.shields.io/github/license/Verkiel-cmd/PRODUCTION_student-management-frontend?style=flat-square) | Open Source |
-
-### 🖥️ Mainframe Core Activity Logs
-
-<!-- Futuristic Cyberpunk Wave Divider -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=120&section=header&text=CORE%20MATRIX%20ONLINE&fontSize=30&theme=tokyonight" width="100%" />
-</div>
-
-<br />
 
 <!-- Live Terminal Typing Simulation -->
 <div align="center">
