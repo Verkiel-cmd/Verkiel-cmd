@@ -88,6 +88,12 @@ A passionate Full-Stack Developer focused on building clean, efficient, and user
   <img src="https://github-readme-stats-alpha.vercel.app/api/pin/?username=Verkiel-cmd&repo=PRODUCTION_student-management-backend&theme=tokyonight&border_radius=10" alt="Backend Telemetry" height="150" />
 </div>
 
+### 📊 High-Density Horizontal Architecture Footprint Strip
+
+<div align="center">
+  <img src="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=Verkiel-cmd&layout=compact&theme=tokyonight&hide_border=true&hide_title=true&card_width=480" alt="Linear Stack Footprint Bar" />
+</div>
+
 #### 📈 Development Activity
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Verkiel-cmd&theme=tokyo-night&area=true&hide_border=true" alt="Holographic Activity Timeline" width="100%" />
