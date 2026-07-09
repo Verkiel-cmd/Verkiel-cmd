@@ -94,12 +94,6 @@ A passionate Full-Stack Developer focused on building clean, efficient, and user
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Verkiel-cmd&theme=tokyonight" alt="Language Commit Pie Matrix" />
 </div>
 
-### 📈 Interactive Weekly Productivity Activity Radar
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commit-team-branch?username=Verkiel-cmd&theme=tokyonight" alt="Weekly Code Velocity Radar" />
-</div>
-
 #### 📈 Development Activity
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Verkiel-cmd&theme=tokyo-night&area=true&hide_border=true" alt="Holographic Activity Timeline" width="100%" />
