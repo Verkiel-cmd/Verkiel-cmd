@@ -67,9 +67,9 @@ A passionate Full-Stack Developer focused on building clean, efficient, and user
   <img src="https://komarev.com/ghpvc/?username=Verkiel-cmd&color=7aa2f7&style=flat-square&label=TERMINAL+ACCESS+COUNT" alt="Network Traffic Counter" />
 </div>
 
-<br />
+### 🌐 System Core & Network Metrics
 
-<!-- Centered Active Daily Streak -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Verkiel-cmd&theme=tokyonight&border_radius=10&border=2CB67D" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-alpha.vercel.app/api?username=Verkiel-cmd&show_icons=true&theme=tokyonight&border_radius=10" alt="Core Stats" height="180" />
+  <img src="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=Verkiel-cmd&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" height="180" />
 </div>
