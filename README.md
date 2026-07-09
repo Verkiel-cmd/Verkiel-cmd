@@ -88,6 +88,18 @@ A passionate Full-Stack Developer focused on building clean, efficient, and user
   <img src="https://github-readme-stats-alpha.vercel.app/api/pin/?username=Verkiel-cmd&repo=PRODUCTION_student-management-backend&theme=tokyonight&border_radius=10" alt="Backend Telemetry" height="150" />
 </div>
 
+### 📊 The Modular Repo Per-Contribution Dashboard
+
+<div align="center">
+  <img src="https://github-contribution-card.vercel.app/api?username=Verkiel-cmd&theme=tokyonight&show_contributor_rank=true" alt="Repository Impact Matrix" />
+</div>
+
+### 🕒 Deep Project Integration Timelines
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Verkiel-cmd&show=reviews,prs_merged,prs_merged_percentage&theme=tokyonight&hide=stars,commits,prs,issues,contribs&show_icons=true" alt="Operational Pipeline Velocity" />
+</div>
+
 #### 📈 Development Activity
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Verkiel-cmd&theme=tokyo-night&area=true&hide_border=true" alt="Holographic Activity Timeline" width="100%" />
