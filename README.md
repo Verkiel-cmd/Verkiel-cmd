@@ -77,6 +77,11 @@ A passionate Full-Stack Developer focused on building clean, efficient, and user
   <img src="https://github-readme-stats-alpha.vercel.app/api/pin/?username=Verkiel-cmd&repo=PRODUCTION_student-management-backend&theme=tokyonight&border_radius=10" alt="Backend Telemetry" height="150" />
 </div>
 
+#### 📈 Development Activity
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Verkiel-cmd&theme=tokyo-night&area=true&hide_border=true" alt="Holographic Activity Timeline" width="100%" />
+</div>
+
 ### 📊 Live Student Management System Deployment Statistics
 
 | Metric | Status | Details |
@@ -86,10 +91,6 @@ A passionate Full-Stack Developer focused on building clean, efficient, and user
 | **Frontend Status** | ![Netlify Status](https://img.shields.io/github/actions/workflow/status/Verkiel-cmd/PRODUCTION_student-management-frontend/main.yml?branch=main&label=Netlify&style=flat-square&logo=netlify) | Live Deployed via CI/CD Active |
 | **License** | ![License](https://img.shields.io/github/license/Verkiel-cmd/PRODUCTION_student-management-frontend?style=flat-square) | Open Source |
 
-#### 📈 Development Activity
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Verkiel-cmd&theme=tokyo-night&area=true&hide_border=true" alt="Holographic Activity Timeline" width="100%" />
-</div>
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Verkiel-cmd&theme=dark" alt="Language Commit Pie Matrix" height="180" />
   <img src="https://streak-stats.demolab.com?user=Verkiel-cmd&theme=tokyonight&border_radius=10&border=2CB67D" alt="GitHub Streak" height="180" />
