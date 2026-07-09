@@ -82,6 +82,7 @@ A passionate Full-Stack Developer focused on building clean, efficient, and user
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Verkiel-cmd&theme=tokyo-night&area=true&hide_border=true" alt="Holographic Activity Timeline" width="100%" />
 </div>
 
+<div align="center">
 ### 📊 Live Student Management System Deployment Statistics
 
 | Metric | Status | Details |
@@ -90,6 +91,7 @@ A passionate Full-Stack Developer focused on building clean, efficient, and user
 | **Backend Status** | ![Render Status](https://img.shields.io/github/actions/workflow/status/Verkiel-cmd/PRODUCTION_student-management-backend/main.yml?branch=main&label=Render&style=flat-square&logo=render) | Live Aiven DB + Render API Active |
 | **Frontend Status** | ![Netlify Status](https://img.shields.io/github/actions/workflow/status/Verkiel-cmd/PRODUCTION_student-management-frontend/main.yml?branch=main&label=Netlify&style=flat-square&logo=netlify) | Live Deployed via CI/CD Active |
 | **License** | ![License](https://img.shields.io/github/license/Verkiel-cmd/PRODUCTION_student-management-frontend?style=flat-square) | Open Source |
+</div>
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Verkiel-cmd&theme=dark" alt="Language Commit Pie Matrix" height="180" />
