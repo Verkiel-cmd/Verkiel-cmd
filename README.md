@@ -24,7 +24,7 @@ A passionate Full-Stack Developer focused on building clean, efficient, and user
 
 **Backend & Databases:**
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,npm,laravel,php,git,windows,java,gcp,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,expressjs,npm,laravel,php,git,windows,java,gcp,mysql)](https://skillicons.dev)
 
 ---
 
