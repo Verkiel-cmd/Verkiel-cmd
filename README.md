@@ -74,6 +74,7 @@ A passionate Full-Stack Developer focused on building clean, efficient, and user
 <div align="center">
   <img src="https://github-readme-stats-alpha.vercel.app/api/pin/?username=Verkiel-cmd&repo=PRODUCTION_student-management-frontend&theme=tokyonight&border_radius=10" alt="Frontend Telemetry" height="150" />
   <img src="https://github-readme-stats-alpha.vercel.app/api/pin/?username=Verkiel-cmd&repo=PRODUCTION_student-management-backend&theme=tokyonight&border_radius=10" alt="Backend Telemetry" height="150" />
+  <img src="https://github-readme-stats-alpha.vercel.app/api/pin/?username=Verkiel-cmd&repo=universal-dev-backup&theme=tokyonight&border_radius=10" alt="Master Backup Telemetry" height="150" />
 </div>
 
 #### 📈 Development Activity
