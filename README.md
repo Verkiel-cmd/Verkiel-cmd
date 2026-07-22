@@ -149,9 +149,6 @@ A passionate Full-Stack Developer focused on building clean, efficient, and user
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Verkiel-cmd&theme=tokyo-night&area=true&hide_border=true" alt="Holographic Activity Timeline" width="100%" />
 </div>
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Verkiel-cmd&theme=tokyo-night&hide_border=true"/>
-</p>
 
 <!-- Dynamic Visitor Laser Counter -->
 <div align="center">
