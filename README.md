@@ -53,7 +53,8 @@ A passionate Full-Stack Developer focused on building clean, efficient, and user
 | **License** | ![License](https://img.shields.io/github/license/Verkiel-cmd/PRODUCTION_student-management-frontend?style=flat-square) | Open Source |
 </div>
 
-### 🛠️ Tech Stack Matrix & Sub-Systems
+<div align="center">
+<h2> 🛠️ Tech Stack Matrix & Sub-Systems </h2> 
 
 <!-- Clean, Color-Coordinated Minimalist Tech Icons Grid -->
 <p align="center">
@@ -86,7 +87,8 @@ A passionate Full-Stack Developer focused on building clean, efficient, and user
 | **License** | ![License](https://img.shields.io/github/license/Verkiel-cmd/PRODUCTION_baranggay-registry?style=flat-square) | Open Source |
 </div>
 
-### 🛠️ Tech Stack Matrix & Sub-Systems
+<div align="center">
+<h2> 🛠️ Tech Stack Matrix & Sub-Systems </h2> 
 <!-- Clean, Color-Coordinated Minimalist Tech Icons Grid -->
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
