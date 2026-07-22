@@ -91,13 +91,6 @@ A passionate Full-Stack Developer focused on building clean, efficient, and user
 | **License** | ![License](https://img.shields.io/github/license/Verkiel-cmd/PRODUCTION_baranggay-registry?style=flat-square) | Open Source |
 </div>
 
-### 📊 My GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats-alpha.vercel.app/api?username=Verkiel-cmd&show_icons=true&theme=tokyonight&border_radius=10" alt="Verkiel's GitHub Stats" height="180" />
-  <img src="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=Verkiel-cmd&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" height="180" />
-</p>
-
 ### 🛠️ Tech Stack Matrix & Sub-Systems
 <!-- Clean, Color-Coordinated Minimalist Tech Icons Grid -->
 <p align="center">
@@ -108,6 +101,13 @@ A passionate Full-Stack Developer focused on building clean, efficient, and user
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
+</p>
+
+### 📊 My GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats-alpha.vercel.app/api?username=Verkiel-cmd&show_icons=true&theme=tokyonight&border_radius=10" alt="Verkiel's GitHub Stats" height="180" />
+  <img src="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=Verkiel-cmd&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" height="180" />
 </p>
 
 <div align="center">
