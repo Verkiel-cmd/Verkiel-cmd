@@ -43,12 +43,12 @@ A passionate Full-Stack Developer focused on building clean, efficient, and user
 </div>
 
 <!-- Statistics Front-end-->
-<div align="center">
+
 ![Alt](https://repobeats.axiom.co/api/embed/14be83287c817144f368c0fb4b1438032a8fae14.svg "Repobeats analytics image")
 
 
 <!-- Statistics Backend-->
-<div align="center">
+
 ![Alt](https://repobeats.axiom.co/api/embed/462331d2fd87208cbd8faf96acdca5e39c558bd0.svg "Repobeats analytics image")
 
 
@@ -87,7 +87,7 @@ A passionate Full-Stack Developer focused on building clean, efficient, and user
 </div>
 
 <!-- Statistics -->
-<div align="center">
+
 ![Alt](https://repobeats.axiom.co/api/embed/c39cf46f5080fa4e9d4cb38b32b50ce4c622eac3.svg "Repobeats analytics image")
 
 
