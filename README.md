@@ -79,6 +79,8 @@ A passionate Full-Stack Developer focused on building clean, efficient, and user
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2CB67D&center=true&vCenter=true&width=800&lines=Initializing+Baranggay+Service+Registry+Cluster...;Syncing+Live+Render+Endpoints...;Atlas+Database+Uplink+Secured...;System+Status%3A+Fully+Operational" alt="Terminal Logs" />
 </div>
 
+![Backend Activity](https://github-readme-activity-graph.vercel.app/graph?username=Verkiel-cmd&repo=PRODUCTION_baranggay-registry&bg_color=0d1117&color=2CB67D&line=2CB67D&point=ffffff&area=true&hide_border=true)
+
 <div align="center">
 <h2> 📊 Live Baranggay Service Registry </h2> 
 
