@@ -96,6 +96,10 @@ A passionate Full-Stack Developer focused on building clean, efficient, and user
 
 <!-- Statistics -->
 <p align="center">
+  <span align="left" style="display:block;">
+    <code>//BACKEND_METRICS</code>
+  </span>
+  <br />
 <img src="https://repobeats.axiom.co/api/embed/c39cf46f5080fa4e9d4cb38b32b50ce4c622eac3.svg" alt="Statistics Backend-end" title="Repobeats analytics image" />
 </p>
 
