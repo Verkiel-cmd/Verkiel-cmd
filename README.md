@@ -30,7 +30,7 @@ A passionate Full-Stack Developer focused on building clean, efficient, and user
 
 ---
 
-### 🖥️ Mainframe Core Activity Logs
+### 🖥️ Mainframe (SMS) Live Core Activity Logs
 
 <!-- Futuristic Cyberpunk Wave Divider -->
 <div align="center">
@@ -65,6 +65,15 @@ A passionate Full-Stack Developer focused on building clean, efficient, and user
   <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
 </p>
+
+### 🖥️ Mainframe (BSR) Live Core Activity Logs
+
+<!-- Futuristic Cyberpunk Wave Divider -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=120&section=header&text=CORE%20MATRIX%20ONLINE&fontSize=30&theme=tokyonight" width="100%" />
+</div>
+
+<br />
 
 <!-- Live Terminal Typing Simulation -->
 <div align="center">
