@@ -42,14 +42,22 @@ A passionate Full-Stack Developer focused on building clean, efficient, and user
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2CB67D&center=true&vCenter=true&width=800&lines=Initializing+Student+Management+Cluster...;Syncing+Live+Render+Endpoints...;Aiven+Database+Uplink+Secured...;System+Status%3A+Fully+Operational" alt="Terminal Logs" />
 </div>
 
-<!-- Statistics Front-end-->
 <p align="center">
-<img src="https://repobeats.axiom.co/api/embed/14be83287c817144f368c0fb4b1438032a8fae14.svg" alt="Statistics Front-end" title="Repobeats analytics image" />
+  <span align="left" style="display:block;">
+    <code>// FRONTEND_METRICS</code>
+  </span>
+  <br />
+  <img src="https://repobeats.axiom.co/api/embed/14be83287c817144f368c0fb4b1438032a8fae14.svg" alt="Front-end" />
 </p>
 
-<!-- Statistics Backend-->
+<br />
+
 <p align="center">
-<img src="https://repobeats.axiom.co/api/embed/462331d2fd87208cbd8faf96acdca5e39c558bd0.svg" alt="Statistics Back-end" title="Repobeats analytics image" />
+  <span align="left" style="display:block;">
+    <code>// BACKEND_METRICS</code>
+  </span>
+  <br />
+  <img src="https://repobeats.axiom.co/api/embed/462331d2fd87208cbd8faf96acdca5e39c558bd0.svg" alt="Backend" />
 </p>
 
 <div align="center">
