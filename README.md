@@ -150,13 +150,7 @@ A passionate Full-Stack Developer focused on building clean, efficient, and user
 </div>
 
 <div align="center">
-  <p>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  </p>
+  <img src="https://metrics.lecoq.io/Verkiel-cmd?template=classic&base=header%2C%20activity%2C%20community&config.timezone=UTC" alt="GitHub Metrics" height="180" />
   <img src="https://streak-stats.demolab.com?user=Verkiel-cmd&theme=tokyonight&border_radius=10&border=2CB67D" alt="GitHub Streak" height="180" />
 </div>
 
