@@ -10,7 +10,9 @@ A passionate Full-Stack Developer focused on building clean, efficient, and user
 
 ### 💻 Featured Projects
 
-* **[Student Management System](https://github.com/Verkiel-cmd/student-management-frontend)** - A comprehensive full-stack platform featuring a responsive admin dashboard prototype built to streamline data management, backed by a robust server architecture handling secure data processing and routing.
+* **[Student Management System](https://github.com/Verkiel-cmd/PRODUCTION_student-management-frontend)** - A comprehensive full-stack platform featuring a responsive admin dashboard prototype built to streamline data management, backed by a robust server architecture handling secure data processing and routing.
+
+* **[Barangay Service Registry](https://github.com/Verkiel-cmd/PRODUCTION_baranggay-registry)** - Tracking system that let you have a ticket to request structural configuration or organization that would help community services to improved it's arrangement of specifics places to help innovate infrastructures.
   
 * **[Master Backup Utility](https://github.com/Verkiel-cmd/universal-dev-backup)** - A native, interactive Windows CLI **backup tool** engineered specifically for software engineers and systems developers. Its primary **purpose** is to provide a rapid, safe, and automated pipeline for mirroring active project workspaces directly to cloud storage providers (like Google Drive or OneDrive) or secondary local storage disks. Built to eliminate the "Node Modules Nightmare," the utility leverages multi-threaded file copying to bypass heavy dependency trees (`node_modules`, `dist`, `.git`) that typically crash browser-based cloud uploaders. It ensures absolute data integrity through a matrix of built-in safety guardrails, including real-time path existence verification, automated double-quote string sanitation for safe directory parsing, and a risk-free "Scout Mode" dry-run simulation engine to preview alterations before a single live byte is written to the cloud.
 
@@ -53,13 +55,6 @@ A passionate Full-Stack Developer focused on building clean, efficient, and user
 | **License** | ![License](https://img.shields.io/github/license/Verkiel-cmd/PRODUCTION_student-management-frontend?style=flat-square) | Open Source |
 </div>
 
-### 📊 My GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats-alpha.vercel.app/api?username=Verkiel-cmd&show_icons=true&theme=tokyonight&border_radius=10" alt="Verkiel's GitHub Stats" height="180" />
-  <img src="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=Verkiel-cmd&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" height="180" />
-</p>
-
 ### 🛠️ Tech Stack Matrix & Sub-Systems
 
 <!-- Clean, Color-Coordinated Minimalist Tech Icons Grid -->
@@ -71,7 +66,40 @@ A passionate Full-Stack Developer focused on building clean, efficient, and user
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
 </p>
 
+<!-- Live Terminal Typing Simulation -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2CB67D&center=true&vCenter=true&width=500&lines=Initializing+Baranggay Service Registry+Cluster...;Syncing+Live+Render+Endpoints...;Atlas+Database+Uplink+Secured...;System+Status%3A+Fully+Operational" alt="Terminal Logs" />
+</div>
 
+<div align="center">
+<h2> 📊 Live Baranggay Service Registry </h2> 
+
+| Metric | Status | Details |
+| :--- | :---: | :--- |
+| **Last Commit** | ![Last Commit](https://img.shields.io/github/last-commit/Verkiel-cmd/PRODUCTION_baranggay-registry?style=flat-square&logo=git) | Auto-updated on every push |
+| **Backend Status** | ![Render Status](https://img.shields.io/github/actions/workflow/status/Verkiel-cmd/PRODUCTION_baranggay-registry/main.yml?branch=main&label=Render&style=flat-square&logo=render) | Live Atlas DB + Render API Active |
+| **Frontend Status** | ![Netlify Status](https://img.shields.io/github/actions/workflow/status/Verkiel-cmd/PRODUCTION_baranggay-registry/main.yml?branch=main&label=Netlify&style=flat-square&logo=netlify) | Live Deployed via CI/CD Active |
+| **License** | ![License](https://img.shields.io/github/license/Verkiel-cmd/PRODUCTION_baranggay-registry?style=flat-square) | Open Source |
+</div>
+
+### 📊 My GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats-alpha.vercel.app/api?username=Verkiel-cmd&show_icons=true&theme=tokyonight&border_radius=10" alt="Verkiel's GitHub Stats" height="180" />
+  <img src="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=Verkiel-cmd&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" height="180" />
+</p>
+
+### 🛠️ Tech Stack Matrix & Sub-Systems
+<!-- Clean, Color-Coordinated Minimalist Tech Icons Grid -->
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
+</p>
 
 <div align="center">
 <h1>Repository root</h1>
