@@ -31,12 +31,10 @@ A passionate Full-Stack Developer focused on building clean, efficient, and user
 ---
 
 ### 🖥️ Mainframe (SMS) Live Core Activity Logs
-
 <!-- Futuristic Cyberpunk Wave Divider -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=120&section=header&text=CORE%20MATRIX%20ONLINE&fontSize=30&theme=tokyonight" width="100%" />
 </div>
-
 <br />
 
 <!-- Live Terminal Typing Simulation -->
@@ -67,17 +65,14 @@ A passionate Full-Stack Developer focused on building clean, efficient, and user
 </p>
 
 ### 🖥️ Mainframe (BSR) Live Core Activity Logs
-
 <!-- Futuristic Cyberpunk Wave Divider -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=120&section=header&text=CORE%20MATRIX%20ONLINE&fontSize=30&theme=tokyonight" width="100%" />
 </div>
-
 <br />
-
 <!-- Live Terminal Typing Simulation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2CB67D&center=true&vCenter=true&width=500&lines=Initializing+Baranggay Service Registry+Cluster...;Syncing+Live+Render+Endpoints...;Atlas+Database+Uplink+Secured...;System+Status%3A+Fully+Operational" alt="Terminal Logs" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2CB67D&center=true&vCenter=true&width=500&lines=Initializing+Baranggay+Service+Registry+Cluster...;Syncing+Live+Render+Endpoints...;Atlas+Database+Uplink+Secured...;System+Status%3A+Fully+Operational" alt="Terminal Logs" />
 </div>
 
 <div align="center">
