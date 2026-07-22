@@ -152,18 +152,7 @@ A passionate Full-Stack Developer focused on building clean, efficient, and user
 <div align="center">
 
 <img 
-src="https://metrics.lecoq.io/Verkiel-cmd?template=repository&base=header,activity,community,repositories,metadata&plugin_languages=1&plugin_isocalendar=1&plugin_habits=1&plugin_topics=1&plugin_stars=1&plugin_achievements=1"
-width="450"
-height="220"
-/>
-
-<img 
-src="https://streak-stats.demolab.com?user=Verkiel-cmd&theme=tokyonight&border_radius=10&border=2CB67D"
-width="350"
-height="220"
-/>
-
-</div>
+src="https://metrics.lecoq.io/Verkiel-cmd?template
 
 <!-- Dynamic Visitor Laser Counter -->
 <div align="center">
