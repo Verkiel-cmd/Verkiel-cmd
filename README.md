@@ -43,14 +43,14 @@ A passionate Full-Stack Developer focused on building clean, efficient, and user
 </div>
 
 <!-- Statistics Front-end-->
-
-![Alt](https://repobeats.axiom.co/api/embed/14be83287c817144f368c0fb4b1438032a8fae14.svg "Repobeats analytics image")
-
+<p align="center">
+<img src="https://repobeats.axiom.co/api/embed/14be83287c817144f368c0fb4b1438032a8fae14.svg" alt="Statistics Front-end" title="Repobeats analytics image" />
+</p>
 
 <!-- Statistics Backend-->
-
-![Alt](https://repobeats.axiom.co/api/embed/462331d2fd87208cbd8faf96acdca5e39c558bd0.svg "Repobeats analytics image")
-
+<p align="center">
+<img src="https://repobeats.axiom.co/api/embed/462331d2fd87208cbd8faf96acdca5e39c558bd0.svg" alt="Statistics Back-end" title="Repobeats analytics image" />
+</p>
 
 <div align="center">
 <h2> 📊 Live Student Management System Deployment Statistics </h2> 
@@ -87,9 +87,9 @@ A passionate Full-Stack Developer focused on building clean, efficient, and user
 </div>
 
 <!-- Statistics -->
-
-![Alt](https://repobeats.axiom.co/api/embed/c39cf46f5080fa4e9d4cb38b32b50ce4c622eac3.svg "Repobeats analytics image")
-
+<p align="center">
+<img src="https://repobeats.axiom.co/api/embed/c39cf46f5080fa4e9d4cb38b32b50ce4c622eac3.svg" alt="Statistics Backend-end" title="Repobeats analytics image" />
+</p>
 
 <div align="center">
 <h2> 📊 Live Baranggay Service Registry </h2> 
