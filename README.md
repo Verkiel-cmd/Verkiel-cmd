@@ -43,6 +43,7 @@ A passionate Full-Stack Developer focused on building clean, efficient, and user
 </div>
 
 ![Frontend Activity](https://github-readme-activity-graph.vercel.app/graph?username=Verkiel-cmd&repo=PRODUCTION_student-management-frontend&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true)
+![Backend Activity](https://github-readme-activity-graph.vercel.app/graph?username=Verkiel-cmd&repo=PRODUCTION_student-management-backend&bg_color=0d1117&color=2CB67D&line=2CB67D&point=ffffff&area=true&hide_border=true)
 
 <div align="center">
 <h2> 📊 Live Student Management System Deployment Statistics </h2> 
