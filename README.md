@@ -39,7 +39,7 @@ A passionate Full-Stack Developer focused on building clean, efficient, and user
 
 <!-- Live Terminal Typing Simulation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2CB67D&center=true&vCenter=true&width=500&lines=Initializing+Student+Management+Cluster...;Syncing+Live+Render+Endpoints...;Aiven+Database+Uplink+Secured...;System+Status%3A+Fully+Operational" alt="Terminal Logs" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2CB67D&center=true&vCenter=true&width=800&lines=Initializing+Student+Management+Cluster...;Syncing+Live+Render+Endpoints...;Aiven+Database+Uplink+Secured...;System+Status%3A+Fully+Operational" alt="Terminal Logs" />
 </div>
 
 <div align="center">
@@ -72,7 +72,7 @@ A passionate Full-Stack Developer focused on building clean, efficient, and user
 <br />
 <!-- Live Terminal Typing Simulation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2CB67D&center=true&vCenter=true&width=500&lines=Initializing+Baranggay+Service+Registry+Cluster...;Syncing+Live+Render+Endpoints...;Atlas+Database+Uplink+Secured...;System+Status%3A+Fully+Operational" alt="Terminal Logs" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2CB67D&center=true&vCenter=true&width=800&lines=Initializing+Baranggay+Service+Registry+Cluster...;Syncing+Live+Render+Endpoints...;Atlas+Database+Uplink+Secured...;System+Status%3A+Fully+Operational" alt="Terminal Logs" />
 </div>
 
 <div align="center">
