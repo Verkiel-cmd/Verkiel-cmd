@@ -48,8 +48,8 @@ A passionate Full-Stack Developer focused on building clean, efficient, and user
 | Metric | Status | Details |
 | :--- | :---: | :--- |
 | **Last Commit** | ![Last Commit](https://img.shields.io/github/last-commit/Verkiel-cmd/PRODUCTION_student-management-frontend?style=flat-square&logo=git) | Auto-updated on every push |
-| **Backend Status** | ![Render Status](https://img.shields.io/github/actions/workflow/status/Verkiel-cmd/PRODUCTION_student-management-backend/main.yml?branch=main&label=Render&style=flat-square&logo=render) | Live Aiven DB + Render API Active |
-| **Frontend Status** | ![Netlify Status](https://img.shields.io/github/actions/workflow/status/Verkiel-cmd/PRODUCTION_student-management-frontend/main.yml?branch=main&label=Netlify&style=flat-square&logo=netlify) | Live Deployed via CI/CD Active |
+| **Backend Status** | ![Render Status](https://img.shields.io/github/actions/workflows/status/Verkiel-cmd/PRODUCTION_student-management-backend/main.yml?branch=main&label=Render&style=flat-square&logo=render) | Live Aiven DB + Render API Active |
+| **Frontend Status** | ![Netlify Status](https://img.shields.io/github/actions/workflows/status/Verkiel-cmd/PRODUCTION_student-management-frontend/main.yml?branch=main&label=Netlify&style=flat-square&logo=netlify) | Live Deployed via CI/CD Active |
 | **License** | ![License](https://img.shields.io/github/license/Verkiel-cmd/PRODUCTION_student-management-frontend?style=flat-square) | Open Source |
 </div>
 
@@ -82,8 +82,8 @@ A passionate Full-Stack Developer focused on building clean, efficient, and user
 | Metric | Status | Details |
 | :--- | :---: | :--- |
 | **Last Commit** | ![Last Commit](https://img.shields.io/github/last-commit/Verkiel-cmd/PRODUCTION_baranggay-registry?style=flat-square&logo=git) | Auto-updated on every push |
-| **Backend Status** | ![Render Status](https://img.shields.io/github/actions/workflow/status/Verkiel-cmd/PRODUCTION_baranggay-registry/main.yml?branch=main&label=Render&style=flat-square&logo=render) | Live Atlas DB + Render API Active |
-| **Frontend Status** | ![Netlify Status](https://img.shields.io/github/actions/workflow/status/Verkiel-cmd/PRODUCTION_baranggay-registry/main.yml?branch=main&label=Netlify&style=flat-square&logo=netlify) | Live Deployed via CI/CD Active |
+| **Backend Status** | ![Render Status](https://img.shields.io/github/actions/workflows/status/Verkiel-cmd/PRODUCTION_baranggay-registry/main.yml?branch=main&label=Render&style=flat-square&logo=render) | Live Atlas DB + Render API Active |
+| **Frontend Status** | ![Netlify Status](https://img.shields.io/github/actions/workflows/status/Verkiel-cmd/PRODUCTION_baranggay-registry/main.yml?branch=main&label=Netlify&style=flat-square&logo=netlify) | Live Deployed via CI/CD Active |
 | **License** | ![License](https://img.shields.io/github/license/Verkiel-cmd/PRODUCTION_baranggay-registry?style=flat-square) | Open Source |
 </div>
 
