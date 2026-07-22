@@ -150,7 +150,7 @@ A passionate Full-Stack Developer focused on building clean, efficient, and user
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Verkiel-cmd/Verkiel-cmd/output/github-contribution-grid-snake-dark.svg">
+ <img src="https://github-readme-stats.vercel.app/api?username=Verkiel-cmd&show_icons=true&theme=github_dark"/>
   <img src="https://streak-stats.demolab.com?user=Verkiel-cmd&theme=tokyonight&border_radius=10&border=2CB67D" alt="GitHub Streak" height="180" />
 </div>
 </p>
