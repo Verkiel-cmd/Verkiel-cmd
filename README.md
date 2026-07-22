@@ -42,9 +42,6 @@ A passionate Full-Stack Developer focused on building clean, efficient, and user
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2CB67D&center=true&vCenter=true&width=800&lines=Initializing+Student+Management+Cluster...;Syncing+Live+Render+Endpoints...;Aiven+Database+Uplink+Secured...;System+Status%3A+Fully+Operational" alt="Terminal Logs" />
 </div>
 
-![Frontend Activity](https://github-readme-activity-graph.vercel.app/graph?username=Verkiel-cmd&repo=PRODUCTION_student-management-frontend&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true)
-![Backend Activity](https://github-readme-activity-graph.vercel.app/graph?username=Verkiel-cmd&repo=PRODUCTION_student-management-backend&bg_color=0d1117&color=2CB67D&line=2CB67D&point=ffffff&area=true&hide_border=true)
-
 <div align="center">
 <h2> 📊 Live Student Management System Deployment Statistics </h2> 
 
@@ -79,7 +76,7 @@ A passionate Full-Stack Developer focused on building clean, efficient, and user
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2CB67D&center=true&vCenter=true&width=800&lines=Initializing+Baranggay+Service+Registry+Cluster...;Syncing+Live+Render+Endpoints...;Atlas+Database+Uplink+Secured...;System+Status%3A+Fully+Operational" alt="Terminal Logs" />
 </div>
 
-![Backend Activity](https://github-readme-activity-graph.vercel.app/graph?username=Verkiel-cmd&repo=PRODUCTION_baranggay-registry&bg_color=0d1117&color=2CB67D&line=2CB67D&point=ffffff&area=true&hide_border=true)
+![Alt](https://repobeats.axiom.co/api/embed/c39cf46f5080fa4e9d4cb38b32b50ce4c622eac3.svg "Repobeats analytics image")
 
 <div align="center">
 <h2> 📊 Live Baranggay Service Registry </h2> 
