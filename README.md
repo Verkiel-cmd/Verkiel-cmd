@@ -150,7 +150,7 @@ A passionate Full-Stack Developer focused on building clean, efficient, and user
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Verkiel-cmd&theme=dark" alt="Language Commit Pie Matrix" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Verkiel-cmd&layout=donut&theme=tokyonight&hide_border=true" />
   <img src="https://streak-stats.demolab.com?user=Verkiel-cmd&theme=tokyonight&border_radius=10&border=2CB67D" alt="GitHub Streak" height="180" />
 </div>
 
