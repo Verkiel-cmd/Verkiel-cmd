@@ -149,10 +149,9 @@ A passionate Full-Stack Developer focused on building clean, efficient, and user
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Verkiel-cmd&theme=tokyo-night&area=true&hide_border=true" alt="Holographic Activity Timeline" width="100%" />
 </div>
 
-<div align="center">
-  <img src="https://metrics.lecoq.io/Verkiel-cmd?template=classic&base=header%2C%20activity%2C%20community&config.timezone=UTC" alt="GitHub Metrics" height="180" />
-  <img src="https://streak-stats.demolab.com?user=Verkiel-cmd&theme=tokyonight&border_radius=10&border=2CB67D" alt="GitHub Streak" height="180" />
-</div>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Verkiel-cmd&theme=tokyo-night&hide_border=true"/>
+</p>
 
 <!-- Dynamic Visitor Laser Counter -->
 <div align="center">
