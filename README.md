@@ -42,6 +42,7 @@ A passionate Full-Stack Developer focused on building clean, efficient, and user
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2CB67D&center=true&vCenter=true&width=800&lines=Initializing+Student+Management+Cluster...;Syncing+Live+Render+Endpoints...;Aiven+Database+Uplink+Secured...;System+Status%3A+Fully+Operational" alt="Terminal Logs" />
 </div>
 
+<!-- Statistics -->
 <p align="center">
   <span align="left" style="display:block;">
     <code>// FRONTEND_METRICS</code>
@@ -52,6 +53,7 @@ A passionate Full-Stack Developer focused on building clean, efficient, and user
 
 <br />
 
+<!-- Statistics -->
 <p align="center">
   <span align="left" style="display:block;">
     <code>// BACKEND_METRICS</code>
