@@ -165,7 +165,7 @@ A passionate Full-Stack Developer focused on building clean, efficient, and user
 </td>
 
 <td>
-<img src="https://streak-stats.demolab.com?user=Verkiel-cmd&theme=tokyonight&border_radius=10&border=2CB67D" width="500">
+<img src="https://streak-stats.demolab.com?user=Verkiel-cmd&theme=tokyonight&border_radius=10&border=2CB67D" width="600">
 </td>
 </tr>
 </table>
