@@ -133,7 +133,7 @@ A passionate Full-Stack Developer focused on building clean, efficient, and user
 
 <p align="center">
   <img src="https://github-readme-stats-alpha.vercel.app/api?username=Verkiel-cmd&show_icons=true&theme=tokyonight&border_radius=10" alt="Verkiel's GitHub Stats" height="180" />
-  <img src="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=Verkiel-cmd&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" height="500" />
+  <img src="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=Verkiel-cmd&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" height="180" />
 </p>
 
 <div align="center">
