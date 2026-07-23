@@ -152,7 +152,7 @@ A passionate Full-Stack Developer focused on building clean, efficient, and user
 <table>
 <tr>
 <td>
-<img src="https://metrics.lecoq.io/Verkiel-cmd?template=repository&base=header,activity,community,repositories,metadata&plugin_languages=1&plugin_isocalendar=1&plugin_habits=1&plugin_topics=1&plugin_stars=1&plugin_achievements=1" width="500">
+<img src="https://github-readme-stats.vercel.app/api?username=Verkiel-cmd&show_icons=true&theme=tokyonight" width="500">
 </td>
 
 <td>
