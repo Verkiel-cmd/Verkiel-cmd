@@ -152,7 +152,7 @@ A passionate Full-Stack Developer focused on building clean, efficient, and user
 <table>
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Verkiel-cmd&repo=YOUR_REPO&theme=tokyonight">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500">
 </td>
 
 <td>
