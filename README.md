@@ -131,6 +131,7 @@ A passionate Full-Stack Developer focused on building clean, efficient, and user
 
 ### 📊 My GitHub Statistics
 
+<div align="center">
 <table>
 <tr>
 <td>
@@ -142,6 +143,7 @@ A passionate Full-Stack Developer focused on building clean, efficient, and user
 </td>
 </tr>
 </table>
+</div>
 
 <div align="center">
 <h1>⚙️ Repository root</h1>
