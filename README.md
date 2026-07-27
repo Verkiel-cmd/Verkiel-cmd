@@ -107,14 +107,14 @@ A passionate Full-Stack Developer focused on building clean, efficient, and user
 </p>
 
 <div align="center">
-<h2> 📊 Live Baranggay Service Registry </h2> 
+<h2> 📊 Live Community Service Registry </h2> 
 
 | Metric | Status | Details |
 | :--- | :---: | :--- |
-| **Last Commit** | ![Last Commit](https://img.shields.io/github/last-commit/Verkiel-cmd/PRODUCTION_baranggay-registry?style=flat-square&logo=git) | Auto-updated on every push |
-| **Backend Status** | ![Render Status](https://img.shields.io/github/actions/workflow/status/Verkiel-cmd/PRODUCTION_baranggay-registry/main.yml?branch=main&label=Render&style=flat-square&logo=render) | Live Atlas DB + Render API Active |
-| **Frontend Status** | ![Netlify Status](https://img.shields.io/github/actions/workflow/status/Verkiel-cmd/PRODUCTION_baranggay-registry/main.yml?branch=main&label=Netlify&style=flat-square&logo=netlify) | Live Deployed via CI/CD Active |
-| **License** | ![License](https://img.shields.io/github/license/Verkiel-cmd/PRODUCTION_baranggay-registry?style=flat-square) | Open Source |
+| **Last Commit** | ![Last Commit](https://img.shields.io/github/last-commit/Verkiel-cmd/PRODUCTION_community-registry?style=flat-square&logo=git) | Auto-updated on every push |
+| **Backend Status** | ![Render Status](https://img.shields.io/github/actions/workflow/status/Verkiel-cmd/PRODUCTION_community-registry/main.yml?branch=main&label=Render&style=flat-square&logo=render) | Live Atlas DB + Render API Active |
+| **Frontend Status** | ![Netlify Status](https://img.shields.io/github/actions/workflow/status/Verkiel-cmd/PRODUCTION_community-registry/main.yml?branch=main&label=Netlify&style=flat-square&logo=netlify) | Live Deployed via CI/CD Active |
+| **License** | ![License](https://img.shields.io/github/license/Verkiel-cmd/PRODUCTION_community-registry?style=flat-square) | Open Source |
 </div>
 
 <div align="center">
