@@ -86,7 +86,7 @@ A passionate Full-Stack Developer focused on building clean, efficient, and user
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
 </p>
 
-### 🖥️ Mainframe (BSR) Live Core Activity Logs
+### 🖥️ Mainframe (CSR) Live Core Activity Logs
 <!-- Futuristic Cyberpunk Wave Divider -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=120&section=header&text=CORE%20(BSR)%20MATRIX%20ONLINE&fontSize=30&theme=tokyonight" width="100%" />
@@ -94,7 +94,7 @@ A passionate Full-Stack Developer focused on building clean, efficient, and user
 <br />
 <!-- Live Terminal Typing Simulation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2CB67D&center=true&vCenter=true&width=800&lines=Initializing+Baranggay+Service+Registry+Cluster...;Syncing+Live+Render+Endpoints...;Atlas+Database+Uplink+Secured...;System+Status%3A+Fully+Operational" alt="Terminal Logs" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2CB67D&center=true&vCenter=true&width=800&lines=Initializing+Community+Service+Registry+Cluster...;Syncing+Live+Render+Endpoints...;Atlas+Database+Uplink+Secured...;System+Status%3A+Fully+Operational" alt="Terminal Logs" />
 </div>
 
 <!-- Statistics -->
