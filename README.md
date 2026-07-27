@@ -89,7 +89,7 @@ A passionate Full-Stack Developer focused on building clean, efficient, and user
 ### 🖥️ Mainframe (CSR) Live Core Activity Logs
 <!-- Futuristic Cyberpunk Wave Divider -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=120&section=header&text=CORE%20(BSR)%20MATRIX%20ONLINE&fontSize=30&theme=tokyonight" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=120&section=header&text=CORE%20(CSR)%20MATRIX%20ONLINE&fontSize=30&theme=tokyonight" width="100%" />
 </div>
 <br />
 <!-- Live Terminal Typing Simulation -->
