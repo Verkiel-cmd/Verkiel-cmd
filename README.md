@@ -10,9 +10,9 @@ A passionate Full-Stack Developer focused on building clean, efficient, and user
 
 ### 💻 Featured Projects
 
-* **[Student Management System](student-management-st.netlify.app)** - Comprehensive full-stack platform featuring a responsive admin dashboard prototype built to streamline data management, backed by a robust server architecture handling secure data processing and routing.
+* **[Student Management System](https://github.com/Verkiel-cmd/PRODUCTION_student-management-frontend)** - Comprehensive full-stack platform featuring a responsive admin dashboard prototype built to streamline data management, backed by a robust server architecture handling secure data processing and routing.
 
-* **[Community Service Registry](https://community-registry.netlify.app/)** - Tracking system that let you have a ticket to request structural configuration or organization that would help community services to improved it's arrangement of specifics places to help innovate infrastructures.
+* **[Community Service Registry](https://github.com/Verkiel-cmd/PRODUCTION_baranggay-registry)** - Tracking system that let you have a ticket to request structural configuration or organization that would help community services to improved it's arrangement of specifics places to help innovate infrastructures.
   
 * **[Master Backup Utility](https://github.com/Verkiel-cmd/universal-dev-backup)** - Native, interactive Windows CLI **backup tool** engineered specifically for software engineers and systems developers. Its primary **purpose** is to provide a rapid, safe, and automated pipeline for mirroring active project workspaces directly to cloud storage providers (like Google Drive or OneDrive) or secondary local storage disks. Built to eliminate the "Node Modules Nightmare," the utility leverages multi-threaded file copying to bypass heavy dependency trees (`node_modules`, `dist`, `.git`) that typically crash browser-based cloud uploaders. It ensures absolute data integrity through a matrix of built-in safety guardrails, including real-time path existence verification, automated double-quote string sanitation for safe directory parsing, and a risk-free "Scout Mode" dry-run simulation engine to preview alterations before a single live byte is written to the cloud.
 
