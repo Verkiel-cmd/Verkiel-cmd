@@ -1,3 +1,13 @@
+# Hi there! I'm Verkiel-cmd 👋
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Verkiel-cmd&label=Profile%20views&color=0e75b6&style=flat" alt="Verkiel-cmd" />
+</p>
+
+A passionate Full-Stack Developer focused on building clean, efficient, and user-friendly web applications. I enjoy building bridges between solid backend logic and smooth frontend experiences.
+
+---
+
 Copyright (c) 2026 Verkiel-cmd
 
 This work is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0).
@@ -9,14 +19,6 @@ Under this license, anyone who accesses this code must follow these strict terms
 - NO DERIVATIVES (ND): If you remix, transform, or build upon the material, you may not distribute the modified material.
 
 To view a copy of this license, visit: http://creativecommons.org/licenses/by-nc-nd/4.0/
-
-# Hi there! I'm Verkiel-cmd 👋
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Verkiel-cmd&label=Profile%20views&color=0e75b6&style=flat" alt="Verkiel-cmd" />
-</p>
-
-A passionate Full-Stack Developer focused on building clean, efficient, and user-friendly web applications. I enjoy building bridges between solid backend logic and smooth frontend experiences.
 
 ---
 
