@@ -176,11 +176,11 @@ To view a copy of this license, visit: http://creativecommons.org/licenses/by-nc
 <table>
 <tr>
 <td>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/wakatime?username=Verkiel-cmd&amp;theme=tokyonight&amp;layout=compact&amp;border_radius=10" width="380" alt="Productive Metrics"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Verkiel-cmd&amp;show_icons=true&amp;theme=tokyonight&amp;border_radius=10&amp;hide=stars,issues&amp;rank_icon=github" width="400" alt="GitHub Activity Metrics"/>
 </td>
 
 <td>
-<img src="https://streak-stats.demolab.com?user=Verkiel-cmd&amp;theme=tokyonight&amp;border_radius=10&amp;border=2CB67D" width="600" alt="GitHub Streak Stats"/>
+<img src="https://streak-stats.demolab.com?user=Verkiel-cmd&amp;theme=tokyonight&amp;border_radius=10&amp;border=2CB67D" width="500" alt="GitHub Streak Stats"/>
 </td>
 </tr>
 </table>
