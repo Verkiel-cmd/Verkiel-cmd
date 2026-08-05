@@ -170,17 +170,17 @@ To view a copy of this license, visit: http://creativecommons.org/licenses/by-nc
 
 #### 📈 Development Activity
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Verkiel-cmd&theme=tokyo-night&area=true&hide_border=true" alt="Holographic Activity Timeline" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Verkiel-cmd&amp;theme=tokyo-night&amp;area=true&amp;hide_border=true" alt="Holographic Activity Timeline" width="100%" />
 </div>
 
 <table>
 <tr>
 <td>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Verkiel-cmd&theme=tokyonight" width="400">
+<img src="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=Verkiel-cmd&amp;layout=compact&amp;theme=tokyonight&amp;border_radius=10" width="380" alt="Top Languages Matrix"/>
 </td>
 
 <td>
-<img src="https://streak-stats.demolab.com?user=Verkiel-cmd&theme=tokyonight&border_radius=10&border=2CB67D" width="600">
+<img src="https://streak-stats.demolab.com?user=Verkiel-cmd&amp;theme=tokyonight&amp;border_radius=10&amp;border=2CB67D" width="600"/>
 </td>
 </tr>
 </table>
