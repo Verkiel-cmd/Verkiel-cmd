@@ -176,11 +176,11 @@ To view a copy of this license, visit: http://creativecommons.org/licenses/by-nc
 <table>
 <tr>
 <td>
-<img src="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=Verkiel-cmd&amp;layout=compact&amp;theme=tokyonight&amp;border_radius=10" width="380" alt="Top Languages Matrix"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Verkiel-cmd&amp;theme=tokyonight&amp;no-frame=true&amp;column=3&amp;margin-w=15" width="400" alt="GitHub Trophies"/>
 </td>
 
 <td>
-<img src="https://streak-stats.demolab.com?user=Verkiel-cmd&amp;theme=tokyonight&amp;border_radius=10&amp;border=2CB67D" width="600"/>
+<img src="https://streak-stats.demolab.com?user=Verkiel-cmd&amp;theme=tokyonight&amp;border_radius=10&amp;border=2CB67D" width="600" alt="GitHub Streak Stats"/>
 </td>
 </tr>
 </table>
