@@ -176,7 +176,7 @@ To view a copy of this license, visit: http://creativecommons.org/licenses/by-nc
 <table>
 <tr>
 <td>
-<img src="https://github-profile-trophy.vercel.app/?username=Verkiel-cmd&amp;theme=tokyonight&amp;no-frame=true&amp;column=3&amp;margin-w=15" width="400" alt="GitHub Trophies"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/wakatime?username=Verkiel-cmd&amp;theme=tokyonight&amp;layout=compact&amp;border_radius=10" width="380" alt="Productive Metrics"/>
 </td>
 
 <td>
