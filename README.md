@@ -173,17 +173,19 @@ To view a copy of this license, visit: http://creativecommons.org/licenses/by-nc
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Verkiel-cmd&amp;theme=tokyo-night&amp;area=true&amp;hide_border=true" alt="Holographic Activity Timeline" width="100%" />
 </div>
 
+<div align="center">
 <table>
 <tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=Verkiel-cmd&amp;show_icons=true&amp;theme=tokyonight&amp;border_radius=10&amp;hide=stars,issues&amp;rank_icon=github" width="400" alt="GitHub Activity Metrics"/>
+<td align="center" width="50%">
+  <img src="https://metrics.lecoq.io/Verkiel-cmd?template=classic&amp;base=header%2C%20activity%2C%20community&amp;config.timezone=Asia%2FManila&amp;theme=tokyonight" width="100%" alt="Cyberpunk System Telemetry" />
 </td>
 
-<td>
-<img src="https://streak-stats.demolab.com?user=Verkiel-cmd&amp;theme=tokyonight&amp;border_radius=10&amp;border=2CB67D" width="500" alt="GitHub Streak Stats"/>
+<td align="center" width="50%">
+  <img src="https://streak-stats.demolab.com?user=Verkiel-cmd&amp;theme=tokyonight&amp;border_radius=10&amp;border=2CB67D" width="100%" alt="GitHub Streak Stats" />
 </td>
 </tr>
 </table>
+</div>
 
 
 <!-- Dynamic Visitor Laser Counter -->
