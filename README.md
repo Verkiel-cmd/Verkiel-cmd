@@ -40,7 +40,7 @@ To view a copy of this license, visit: http://creativecommons.org/licenses/by-nc
 
 **Backend & Databases:**
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,expressjs,npm,laravel,php,git,windows,java,gcp,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,expressjs,npm,laravel,docker,php,git,windows,java,gcp,mysql)](https://skillicons.dev)
 
 ---
 
