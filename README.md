@@ -186,7 +186,11 @@ To view a copy of this license, visit: http://creativecommons.org/licenses/by-nc
 | **License** | ![License](https://img.shields.io/github/license/Verkiel-cmd/PRODUCTION_dental-appointment?style=flat-square) | Open Source |
 </div>
 
+<!-- SOON FOR FUTURE UPDATES -->
+
 <!-- | **Backend Status** | ![Render Status](https://img.shields.io/github/actions/workflow/status/Verkiel-cmd/PRODUCTION_dental-appointment/main.yml?branch=main&label=Render&style=flat-square&logo=render) | Live Atlas DB + Render API Active | -->
+
+<!-- SOON FOR FUTURE UPDATES -->
 
 <div align="center">
 <h2> 🛠️ Tech Stack Matrix & Sub-Systems </h2> </div>
