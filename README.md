@@ -134,7 +134,7 @@ To view a copy of this license, visit: http://creativecommons.org/licenses/by-nc
 | Metric | Status | Details |
 | :--- | :---: | :--- |
 | **Last Commit** | ![Last Commit](https://img.shields.io/github/last-commit/Verkiel-cmd/PRODUCTION_community-registry?style=flat-square&logo=git) | Auto-updated on every push |
-<!--| **Backend Status** | ![Render Status](https://img.shields.io/github/actions/workflow/status/Verkiel-cmd/PRODUCTION_community-registry/main.yml?branch=main&label=Render&style=flat-square&logo=render) | Live Atlas DB + Render API Active |-->
+| **Backend Status** | ![Render Status](https://img.shields.io/github/actions/workflow/status/Verkiel-cmd/PRODUCTION_community-registry/main.yml?branch=main&label=Render&style=flat-square&logo=render) | Live Atlas DB + Render API Active |
 | **Frontend Status** | ![Netlify Status](https://img.shields.io/github/actions/workflow/status/Verkiel-cmd/PRODUCTION_community-registry/main.yml?branch=main&label=Netlify&style=flat-square&logo=netlify) | Live Deployed via CI/CD Active |
 | **License** | ![License](https://img.shields.io/github/license/Verkiel-cmd/PRODUCTION_community-registry?style=flat-square) | Open Source |
 </div>
@@ -182,7 +182,7 @@ To view a copy of this license, visit: http://creativecommons.org/licenses/by-nc
 | Metric | Status | Details |
 | :--- | :---: | :--- |
 | **Last Commit** | ![Last Commit](https://img.shields.io/github/last-commit/Verkiel-cmd/PRODUCTION_dental-appointment?style=flat-square&logo=git) | Auto-updated on every push |
-| **Backend Status** | ![Render Status](https://img.shields.io/github/actions/workflow/status/Verkiel-cmd/PRODUCTION_dental-appointment/main.yml?branch=main&label=Render&style=flat-square&logo=render) | Live Atlas DB + Render API Active |
+<!-- | **Backend Status** | ![Render Status](https://img.shields.io/github/actions/workflow/status/Verkiel-cmd/PRODUCTION_dental-appointment/main.yml?branch=main&label=Render&style=flat-square&logo=render) | Live Atlas DB + Render API Active | -->
 | **Frontend Status** | ![Netlify Status](https://img.shields.io/github/actions/workflow/status/Verkiel-cmd/PRODUCTION_dental-appointment/main.yml?branch=main&label=Netlify&style=flat-square&logo=netlify) | Live Deployed via CI/CD Active |
 | **License** | ![License](https://img.shields.io/github/license/Verkiel-cmd/PRODUCTION_dental-appointment?style=flat-square) | Open Source |
 </div>
