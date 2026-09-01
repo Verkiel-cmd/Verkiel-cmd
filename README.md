@@ -45,7 +45,9 @@ To view a copy of this license, visit: http://creativecommons.org/licenses/by-nc
 [![My Skills](https://skillicons.dev/icons?i=nodejs,expressjs,npm,laravel,docker,php,git,windows,java,gcp,mysql)](https://skillicons.dev)
 
 ---
-
+<!-- —————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————-->
+<!-- FOR STUDENT MANAGEMENT SYSTEM ! —————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————-->
+<!-- —————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————-->
 ### 🖥️ Mainframe (SMS) Live Core Activity Logs
 <!-- Futuristic Cyberpunk Wave Divider -->
 <div align="center">
@@ -102,6 +104,10 @@ To view a copy of this license, visit: http://creativecommons.org/licenses/by-nc
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
 </p>
 
+<!-- —————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————-->
+<!-- FOR COMMUNITY SERVICE REGISTRY ! —————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————-->
+<!-- —————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————-->
+
 ### 🖥️ Mainframe (CSR) Live Core Activity Logs
 <!-- Futuristic Cyberpunk Wave Divider -->
 <div align="center">
@@ -143,6 +149,51 @@ To view a copy of this license, visit: http://creativecommons.org/licenses/by-nc
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
+</p>
+
+<!-- —————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————-->
+<!-- FOR DENTAL - APPOINTMENT ! —————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————-->
+<!-- —————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————-->
+
+### 🖥️ Mainframe (DA) Live Core Activity Logs
+<!-- Futuristic Cyberpunk Wave Divider -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=120&section=header&text=CORE%20(DA)%20MATRIX%20ONLINE&fontSize=30&theme=tokyonight" width="100%" />
+</div>
+<br />
+<!-- Live Terminal Typing Simulation -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2CB67D&center=true&vCenter=true&width=800&lines=Initializing+Dental+Appointment+Service+Cluster...;Syncing+Live+Render+Endpoints...;Book+Appointment+Uplink+Secured...;System+Status%3A+Fully+Operational" alt="Terminal Logs" />
+</div>
+
+<!-- Statistics -->
+<p align="center">
+  <span align="left" style="display:block;">
+    <code>//BACKEND_METRICS</code>
+  </span>
+  <br />
+<img src="https://repobeats.axiom.co/api/embed/97076f40cefc783858854dc1618484051ebdc842.svg" alt="Statistics Backend-end" title="Repobeats analytics image" />
+</p>
+
+<div align="center">
+<h2> 📊 Live Dental Appointment </h2> 
+
+| Metric | Status | Details |
+| :--- | :---: | :--- |
+| **Last Commit** | ![Last Commit](https://img.shields.io/github/last-commit/Verkiel-cmd/PRODUCTION_dental-appointment?style=flat-square&logo=git) | Auto-updated on every push |
+| **Backend Status** | ![Render Status](https://img.shields.io/github/actions/workflow/status/Verkiel-cmd/PRODUCTION_dental-appointment/main.yml?branch=main&label=Render&style=flat-square&logo=render) | Live Atlas DB + Render API Active |
+| **Frontend Status** | ![Netlify Status](https://img.shields.io/github/actions/workflow/status/Verkiel-cmd/PRODUCTION_dental-appointment/main.yml?branch=main&label=Netlify&style=flat-square&logo=netlify) | Live Deployed via CI/CD Active |
+| **License** | ![License](https://img.shields.io/github/license/Verkiel-cmd/PRODUCTION_dental-appointment?style=flat-square) | Open Source |
+</div>
+
+<div align="center">
+<h2> 🛠️ Tech Stack Matrix & Sub-Systems </h2> </div>
+<!-- Clean, Color-Coordinated Minimalist Tech Icons Grid -->
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
 </p>
 
