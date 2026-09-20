@@ -247,12 +247,12 @@ To view a copy of this license, visit: http://creativecommons.org/licenses/by-nc
 </p>
 
 <div align="center">
-<h2> 📊 Live Dental Appointment </h2> 
+<h2> 📊 Loan Management System </h2> 
 
 | Metric | Status | Details |
 | :--- | :---: | :--- |
 | **Last Commit** | ![Last Commit](https://img.shields.io/github/last-commit/Verkiel-cmd/PRODUCTION_loan-management-frontend?style=flat-square&logo=git) | Auto-updated on every push |
-| **Backend Status** | ![Render Status](https://img.shields.io/github/actions/workflow/status/Verkiel-cmd//PRODUCTION_loan-management-back-end/main.yml?branch=main&label=Render&style=flat-square&logo=render) | Live Atlas DB + Render API Active |
+| **Backend Status** | ![Render Status](https://img.shields.io/github/actions/workflow/status/Verkiel-cmd/PRODUCTION_loan-management-back-end/main.yml?branch=main&label=Render&style=flat-square&logo=render) | Live MySQL + Render API Active |
 | **Frontend Status** | ![Netlify Status](https://img.shields.io/github/actions/workflow/status/Verkiel-cmd/PRODUCTION_loan-management-frontend/main.yml?branch=main&label=Netlify&style=flat-square&logo=netlify) | Live Deployed via CI/CD Active |
 | **License** | ![License](https://img.shields.io/github/license/Verkiel-cmd/PRODUCTION_loan-management-frontend?style=flat-square) | Open Source |
 </div>
