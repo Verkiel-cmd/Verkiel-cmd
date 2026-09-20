@@ -28,7 +28,7 @@ To view a copy of this license, visit: http://creativecommons.org/licenses/by-nc
 
 * **[Community Service Registry](https://github.com/Verkiel-cmd/PRODUCTION_baranggay-registry)** - Tracking system that let you have a ticket to request structural configuration or organization that would help community services to improved it's arrangement of specifics places to help innovate infrastructures.
 
-* **[Dental-appointment](https://github.com/Verkiel-cmd/PRODUCTION_dental-appointment)** - Responsive web application designed to streamline appointment scheduling for local service businesses. The platform provides a 24/7 self-service booking interface integrated with a phone number verification workflow to prevent spam submissions and validate patient contact details.
+* **[Dental appointment](https://github.com/Verkiel-cmd/PRODUCTION_dental-appointment)** - Responsive web application designed to streamline appointment scheduling for local service businesses. The platform provides a 24/7 self-service booking interface integrated with a phone number verification workflow to prevent spam submissions and validate patient contact details.
 
 * **[Loan Management System](https://github.com/Verkiel-cmd/PRODUCTION_loan-management-frontend)** - Built for real lending workflows: borrowers apply for loans and instantly see what they'll owe; admins get a dashboard of total, active, paid, and overdue loans to approve, monitor, and collect on — end to end from application to repayment.
   
