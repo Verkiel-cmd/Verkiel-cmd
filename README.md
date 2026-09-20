@@ -29,6 +29,8 @@ To view a copy of this license, visit: http://creativecommons.org/licenses/by-nc
 * **[Community Service Registry](https://github.com/Verkiel-cmd/PRODUCTION_baranggay-registry)** - Tracking system that let you have a ticket to request structural configuration or organization that would help community services to improved it's arrangement of specifics places to help innovate infrastructures.
 
 * **[Dental-appointment](https://github.com/Verkiel-cmd/PRODUCTION_dental-appointment)** - Responsive web application designed to streamline appointment scheduling for local service businesses. The platform provides a 24/7 self-service booking interface integrated with a phone number verification workflow to prevent spam submissions and validate patient contact details.
+
+* **[Loan Management System](https://github.com/Verkiel-cmd/PRODUCTION_loan-management-frontend)** - Built for real lending workflows: borrowers apply for loans and instantly see what they'll owe; admins get a dashboard of total, active, paid, and overdue loans to approve, monitor, and collect on — end to end from application to repayment.
   
 * **[Master Backup Utility - [Open Souce] ](https://github.com/Verkiel-cmd/universal-dev-backup)** - Native, interactive Windows CLI **backup tool** engineered specifically for software engineers and systems developers. Its primary **purpose** is to provide a rapid, safe, and automated pipeline for mirroring active project workspaces directly to cloud storage providers (like Google Drive or OneDrive) or secondary local storage disks. Built to eliminate the "Node Modules Nightmare," the utility leverages multi-threaded file copying to bypass heavy dependency trees (`node_modules`, `dist`, `.git`) that typically crash browser-based cloud uploaders. It ensures absolute data integrity through a matrix of built-in safety guardrails, including real-time path existence verification, automated double-quote string sanitation for safe directory parsing, and a risk-free "Scout Mode" dry-run simulation engine to preview alterations before a single live byte is written to the cloud.
 
@@ -204,6 +206,83 @@ To view a copy of this license, visit: http://creativecommons.org/licenses/by-nc
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
 </p>
 
+
+
+
+
+
+
+
+<!-- —————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————-->
+<!-- FOR DENTAL - LOAN MANAGEMENT SYSTEM ! —————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————-->
+<!-- —————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————-->
+
+### 🖥️ Mainframe (LMS) Live Core Activity Logs
+<!-- Futuristic Cyberpunk Wave Divider -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=120&section=header&text=CORE%20(LMS)%20MATRIX%20ONLINE&fontSize=30&theme=tokyonight" width="100%" />
+</div>
+<br />
+<!-- Live Terminal Typing Simulation -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2CB67D&center=true&vCenter=true&width=800&lines=Initializing+Loan+Management+System+Cluster...;Syncing+Live+Render+Endpoints...;Dashbord+Uploading+Uplink+Secured...;System+Status%3A+Fully+Operational" alt="Terminal Logs" />
+</div>
+
+<!-- Statistics -->
+<p align="center">
+  <span align="left" style="display:block;">
+    <code>//FRONTEND_METRICS</code>
+  </span>
+  <br />
+<img src="https://repobeats.axiom.co/api/embed/6b6f837fef2ad8eccd4f2c9a277d26c4279775ec.svg" alt="Statistics Front-end" title="Repobeats analytics image" />
+</p>
+
+<!-- Statistics -->
+<p align="center">
+  <span align="left" style="display:block;">
+    <code>//BACKEND_METRICS</code>
+  </span>
+  <br />
+<img src="https://repobeats.axiom.co/api/embed/0a4a88b58455326190fe3cd16bcc4551f387c2ec.svg" alt="Statistics Backend-end" title="Repobeats analytics image" />
+</p>
+
+<div align="center">
+<h2> 📊 Live Dental Appointment </h2> 
+
+| Metric | Status | Details |
+| :--- | :---: | :--- |
+| **Last Commit** | ![Last Commit](https://img.shields.io/github/last-commit/Verkiel-cmd/PRODUCTION_loan-management-frontend?style=flat-square&logo=git) | Auto-updated on every push |
+| **Backend Status** | ![Render Status](https://img.shields.io/github/actions/workflow/status/Verkiel-cmd//PRODUCTION_loan-management-back-end/main.yml?branch=main&label=Render&style=flat-square&logo=render) | Live Atlas DB + Render API Active |
+| **Frontend Status** | ![Netlify Status](https://img.shields.io/github/actions/workflow/status/Verkiel-cmd/PRODUCTION_loan-management-frontend/main.yml?branch=main&label=Netlify&style=flat-square&logo=netlify) | Live Deployed via CI/CD Active |
+| **License** | ![License](https://img.shields.io/github/license/Verkiel-cmd/PRODUCTION_loan-management-frontend?style=flat-square) | Open Source |
+</div>
+
+<!-- SOON FOR FUTURE UPDATES -->
+
+<!-- | **Backend Status** | ![Render Status](https://img.shields.io/github/actions/workflow/status/Verkiel-cmd/PRODUCTION_dental-appointment/main.yml?branch=main&label=Render&style=flat-square&logo=render) | Live Atlas DB + Render API Active | -->
+
+<!-- SOON FOR FUTURE UPDATES -->
+
+<div align="center">
+<h2> 🛠️ Tech Stack Matrix & Sub-Systems </h2> </div>
+<!-- Clean, Color-Coordinated Minimalist Tech Icons Grid -->
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Aiven-00D7FF?style=for-the-badge&logo=aiven&logoColor=black" alt="Aiven" />
+  <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
+</p>
+
+
+
+
 ### 📊 My GitHub Statistics
 
 <div align="center">
@@ -226,6 +305,8 @@ To view a copy of this license, visit: http://creativecommons.org/licenses/by-nc
   <img src="https://github-readme-stats-alpha.vercel.app/api/pin/?username=Verkiel-cmd&repo=PRODUCTION_dental-appointment&theme=tokyonight&border_radius=10" alt="Dental appointment" height="150" />
   <img src="https://github-readme-stats-alpha.vercel.app/api/pin/?username=Verkiel-cmd&repo=PRODUCTION_student-management-frontend&theme=tokyonight&border_radius=10" alt="Frontend Telemetry" height="150" />
   <img src="https://github-readme-stats-alpha.vercel.app/api/pin/?username=Verkiel-cmd&repo=PRODUCTION_student-management-backend&theme=tokyonight&border_radius=10" alt="Backend Telemetry" height="150" />
+  <img src="https://github-readme-stats-alpha.vercel.app/api/pin/?username=Verkiel-cmd&repo=PRODUCTION_loan-management-frontend&theme=tokyonight&border_radius=10" alt="Frontend Telemetry" height="150" />
+  <img src="https://github-readme-stats-alpha.vercel.app/api/pin/?username=Verkiel-cmd&repo=PRODUCTION_loan-management-back-end&theme=tokyonight&border_radius=10" alt="Backend Telemetry" height="150" />
   <img src="https://github-readme-stats-alpha.vercel.app/api/pin/?username=Verkiel-cmd&repo=universal-dev-backup&theme=tokyonight&border_radius=10" alt="Master Backup Telemetry" height="150" />
 </div>
 
