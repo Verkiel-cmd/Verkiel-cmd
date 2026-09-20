@@ -252,7 +252,7 @@ To view a copy of this license, visit: http://creativecommons.org/licenses/by-nc
 | Metric | Status | Details |
 | :--- | :---: | :--- |
 | **Last Commit** | ![Last Commit](https://img.shields.io/github/last-commit/Verkiel-cmd/PRODUCTION_loan-management-frontend?style=flat-square&logo=git) | Auto-updated on every push |
-| **Backend Status** | ![Render Status](https://img.shields.io/github/actions/workflow/status/Verkiel-cmd/PRODUCTION_loan-management-back-end/main.yml?branch=main&label=Render&style=flat-square&logo=render) | Live MySQL + Render API Active |
+| **Backend Status** | ![Render Status](https://img.shields.io/github/actions/workflow/status/Verkiel-cmd/PRODUCTION_loan-management-backend/main.yml?branch=main&label=Render&style=flat-square&logo=render) | Live MySQL + Render API Active |
 | **Frontend Status** | ![Netlify Status](https://img.shields.io/github/actions/workflow/status/Verkiel-cmd/PRODUCTION_loan-management-frontend/main.yml?branch=main&label=Netlify&style=flat-square&logo=netlify) | Live Deployed via CI/CD Active |
 | **License** | ![License](https://img.shields.io/github/license/Verkiel-cmd/PRODUCTION_loan-management-frontend?style=flat-square) | Open Source |
 </div>
@@ -306,7 +306,7 @@ To view a copy of this license, visit: http://creativecommons.org/licenses/by-nc
   <img src="https://github-readme-stats-alpha.vercel.app/api/pin/?username=Verkiel-cmd&repo=PRODUCTION_student-management-frontend&theme=tokyonight&border_radius=10" alt="Frontend Telemetry" height="150" />
   <img src="https://github-readme-stats-alpha.vercel.app/api/pin/?username=Verkiel-cmd&repo=PRODUCTION_student-management-backend&theme=tokyonight&border_radius=10" alt="Backend Telemetry" height="150" />
   <img src="https://github-readme-stats-alpha.vercel.app/api/pin/?username=Verkiel-cmd&repo=PRODUCTION_loan-management-frontend&theme=tokyonight&border_radius=10" alt="Frontend Telemetry" height="150" />
-  <img src="https://github-readme-stats-alpha.vercel.app/api/pin/?username=Verkiel-cmd&repo=PRODUCTION_loan-management-back-end&theme=tokyonight&border_radius=10" alt="Backend Telemetry" height="150" />
+  <img src="https://github-readme-stats-alpha.vercel.app/api/pin/?username=Verkiel-cmd&repo=PRODUCTION_loan-management-backend&theme=tokyonight&border_radius=10" alt="Backend Telemetry" height="150" />
   <img src="https://github-readme-stats-alpha.vercel.app/api/pin/?username=Verkiel-cmd&repo=universal-dev-backup&theme=tokyonight&border_radius=10" alt="Master Backup Telemetry" height="150" />
 </div>
 
