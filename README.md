@@ -225,7 +225,7 @@ To view a copy of this license, visit: http://creativecommons.org/licenses/by-nc
 <br />
 <!-- Live Terminal Typing Simulation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2CB67D&center=true&vCenter=true&width=800&lines=Initializing+Loan+Management+System+Cluster...;Syncing+Live+Render+Endpoints...;Dashbord+Uploading+Uplink+Secured...;System+Status%3A+Fully+Operational" alt="Terminal Logs" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2CB67D&center=true&vCenter=true&width=800&lines=Initializing+Loan+Management+System+Cluster...;Syncing+Live+Render+Endpoints...;Dashboard+Uploading+Uplink+Secured...;System+Status%3A+Fully+Operational" alt="Terminal Logs" />
 </div>
 
 <!-- Statistics -->
