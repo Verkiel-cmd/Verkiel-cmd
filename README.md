@@ -199,6 +199,11 @@ To view a copy of this license, visit: http://creativecommons.org/licenses/by-nc
 
 
 
+
+
+
+
+
 <!-- —————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————-->
 <!-- FOR DENTAL - APPOINTMENT ! —————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————-->
 <!-- —————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————-->
@@ -262,6 +267,14 @@ To view a copy of this license, visit: http://creativecommons.org/licenses/by-nc
 
 
 
+
+
+
+
+
+
+
+
 <!-- —————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————-->
 <!-- FOR DENTAL APP - APPOINTMENT ! —————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————-->
 <!-- —————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————-->
@@ -287,14 +300,13 @@ To view a copy of this license, visit: http://creativecommons.org/licenses/by-nc
 </p>
 
 <div align="center">
-<h2> 📊 Live Dental Appointment </h2> 
+<h2> 📊 Live Dental App </h2>
 
 | Metric | Status | Details |
 | :--- | :---: | :--- |
 | **Last Commit** | ![Last Commit](https://img.shields.io/github/last-commit/Verkiel-cmd/PRODUCTION_dental-app?style=flat-square&logo=git) | Auto-updated on every push |
-| **App Status** | ![Apk build Status](https://img.shields.io/github/actions/workflow/status/Verkiel-cmd/PRODUCTION_dental-app/main.yml?branch=main&label=Netlify&style=flat-square&logo=netlify) | Live Deployed via CI/CD Active |
+| **Latest Release** | ![Latest Release](https://img.shields.io/github/v/release/Verkiel-cmd/PRODUCTION_dental-app?style=flat-square&logo=android&logoColor=white&color=3DDC84) | Signed APK available on GitHub Releases |
 | **License** | ![License](https://img.shields.io/github/license/Verkiel-cmd/PRODUCTION_dental-app?style=flat-square) | Open Source |
-</div>
 
 <!-- SOON FOR FUTURE UPDATES -->
 
