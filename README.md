@@ -30,7 +30,7 @@ To view a copy of this license, visit: http://creativecommons.org/licenses/by-nc
 
 * **[Dental appointment](https://github.com/Verkiel-cmd/PRODUCTION_dental-appointment)** - Responsive web application designed to streamline appointment scheduling for local service businesses. The platform provides a 24/7 self-service booking interface integrated with a phone number verification workflow to prevent spam submissions and validate patient contact details.
 
-* **[Dental-app version appointment](https://github.com/Verkiel-cmd/PRODUCTION_dental-app)** - apk build for more efficient data handling and light way to access updates and logs from verifications, improving latest updates, secured data by entering details and so on.
+* **[Dental app version appointment](https://github.com/Verkiel-cmd/PRODUCTION_dental-app)** - apk build for more efficient data handling and light way to access updates and logs from verifications, improving latest updates, secured data by entering details and so on.
 
 * **[Loan Management System](https://github.com/Verkiel-cmd/PRODUCTION_loan-management-frontend)** - Built for real lending workflows: borrowers apply for loans and instantly see what they'll owe; admins get a dashboard of total, active, paid, and overdue loans to approve, monitor, and collect on; end to end from application to repayment.
   
