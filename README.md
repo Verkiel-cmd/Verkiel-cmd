@@ -30,6 +30,8 @@ To view a copy of this license, visit: http://creativecommons.org/licenses/by-nc
 
 * **[Dental appointment](https://github.com/Verkiel-cmd/PRODUCTION_dental-appointment)** - Responsive web application designed to streamline appointment scheduling for local service businesses. The platform provides a 24/7 self-service booking interface integrated with a phone number verification workflow to prevent spam submissions and validate patient contact details.
 
+* **[Dental-app version appointment](https://github.com/Verkiel-cmd/PRODUCTION_dental-app)** - apk build for more efficient data handling and light way to access updates and logs from verifications, improving latest updates, secured data by entering details and so on.
+
 * **[Loan Management System](https://github.com/Verkiel-cmd/PRODUCTION_loan-management-frontend)** - Built for real lending workflows: borrowers apply for loans and instantly see what they'll owe; admins get a dashboard of total, active, paid, and overdue loans to approve, monitor, and collect on; end to end from application to repayment.
   
 * **[Master Backup Utility - [Open Souce] ](https://github.com/Verkiel-cmd/universal-dev-backup)** - Native, interactive Windows CLI **backup tool** engineered specifically for software engineers and systems developers. Its primary **purpose** is to provide a rapid, safe, and automated pipeline for mirroring active project workspaces directly to cloud storage providers (like Google Drive or OneDrive) or secondary local storage disks. Built to eliminate the "Node Modules Nightmare," the utility leverages multi-threaded file copying to bypass heavy dependency trees (`node_modules`, `dist`, `.git`) that typically crash browser-based cloud uploaders. It ensures absolute data integrity through a matrix of built-in safety guardrails, including real-time path existence verification, automated double-quote string sanitation for safe directory parsing, and a risk-free "Scout Mode" dry-run simulation engine to preview alterations before a single live byte is written to the cloud.
@@ -45,6 +47,21 @@ To view a copy of this license, visit: http://creativecommons.org/licenses/by-nc
 **Backend & Databases:**
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,expressjs,npm,laravel,docker,php,git,windows,java,androidstudio,gcp,mysql,mongodb)](https://skillicons.dev)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ---
 <!-- —————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————-->
@@ -106,6 +123,22 @@ To view a copy of this license, visit: http://creativecommons.org/licenses/by-nc
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
 </p>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!-- —————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————-->
 <!-- FOR COMMUNITY SERVICE REGISTRY ! —————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————-->
 <!-- —————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————-->
@@ -153,6 +186,18 @@ To view a copy of this license, visit: http://creativecommons.org/licenses/by-nc
   <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
 </p>
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!-- —————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————-->
 <!-- FOR DENTAL - APPOINTMENT ! —————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————-->
@@ -213,8 +258,79 @@ To view a copy of this license, visit: http://creativecommons.org/licenses/by-nc
 
 
 
+
+
+
+
 <!-- —————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————-->
-<!-- FOR DENTAL - LOAN MANAGEMENT SYSTEM ! —————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————-->
+<!-- FOR DENTAL APP - APPOINTMENT ! —————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————-->
+<!-- —————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————-->
+
+### 🖥️ Mainframe (DA) Live Core Activity Logs
+<!-- Futuristic Cyberpunk Wave Divider -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=120&section=header&text=CORE%20(DA)%20MATRIX%20ONLINE&fontSize=30&theme=tokyonight" width="100%" />
+</div>
+<br />
+<!-- Live Terminal Typing Simulation -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2CB67D&center=true&vCenter=true&width=800&lines=Initializing+Dental+App+Service+Cluster...;Syncing+Live+Kotlin+Endpoints...;Book+App+Uplink+Secured...;System+Status%3A+Fully+Operational" alt="Terminal Logs" />
+</div>
+
+<!-- Statistics -->
+<p align="center">
+  <span align="left" style="display:block;">
+    <code>//APK_METRICS</code>
+  </span>
+  <br />
+<img src="https://repobeats.axiom.co/api/embed/256b1ea6703cd61546f7105e61a94c36bc002c55.svg" alt="Statistics Backend-end" title="Repobeats analytics image" />
+</p>
+
+<div align="center">
+<h2> 📊 Live Dental Appointment </h2> 
+
+| Metric | Status | Details |
+| :--- | :---: | :--- |
+| **Last Commit** | ![Last Commit](https://img.shields.io/github/last-commit/Verkiel-cmd/PRODUCTION_dental-app?style=flat-square&logo=git) | Auto-updated on every push |
+| **App Status** | ![Apk build Status](https://img.shields.io/github/actions/workflow/status/Verkiel-cmd/PRODUCTION_dental-app/main.yml?branch=main&label=Netlify&style=flat-square&logo=netlify) | Live Deployed via CI/CD Active |
+| **License** | ![License](https://img.shields.io/github/license/Verkiel-cmd/PRODUCTION_dental-app?style=flat-square) | Open Source |
+</div>
+
+<!-- SOON FOR FUTURE UPDATES -->
+
+<!-- | **Backend Status** | ![Render Status](https://img.shields.io/github/actions/workflow/status/Verkiel-cmd/PRODUCTION_dental-appointment/main.yml?branch=main&label=Render&style=flat-square&logo=render) | Live Atlas DB + Render API Active | -->
+
+<!-- SOON FOR FUTURE UPDATES -->
+
+<div align="center">
+<h2> 🛠️ Tech Stack Matrix & Sub-Systems </h2> </div>
+<!-- Clean, Color-Coordinated Minimalist Tech Icons Grid -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle" />
+  <img src="https://img.shields.io/badge/Retrofit-48B983?style=for-the-badge&logo=square&logoColor=white" alt="Retrofit" />
+  <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- —————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————-->
+<!-- FOR - LOAN MANAGEMENT SYSTEM ! —————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————-->
 <!-- —————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————-->
 
 ### 🖥️ Mainframe (LMS) Live Core Activity Logs
