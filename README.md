@@ -441,18 +441,18 @@ To view a copy of this license, visit: http://creativecommons.org/licenses/by-nc
 
 #### 📈 Development Activity
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Verkiel-cmd&amp;theme=tokyo-night&amp;area=true&amp;hide_border=true" alt="Holographic Activity Timeline" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Verkiel-cmd&amp;theme=tokyo-night&amp;area=true&;hide_border=true" alt="Holographic Activity Timeline" width="100%" />
 </div>
 
 <div align="center">
 <table>
 <tr>
 <td align="center" width="50%">
-  <img src="https://metrics.lecoq.io/Verkiel-cmd?template=classic&amp;base=header%2C%20activity%2C%20community&amp;config.timezone=Asia%2FManila&amp;theme=tokyonight" width="100%" alt="Cyberpunk System Telemetry" />
+  <img src="https://metrics.lecoq.io/Verkiel-cmd?template=classic&amp;base=header%2C%20activity%2C%20community&;config.timezone=Asia%2FManila&amp;theme=tokyonight" width="100%" alt="Cyberpunk System Telemetry" />
 </td>
 
 <td align="center" width="50%">
-  <img src="https://streak-stats.demolab.com?user=Verkiel-cmd&amp;theme=tokyonight&amp;border_radius=10&amp;border=2CB67D" width="100%" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=Verkiel-cmd&amp;theme=tokyonight&amp;border_radius=10&;border=2CB67D" width="100%" alt="GitHub Streak Stats" />
 </td>
 </tr>
 </table>
