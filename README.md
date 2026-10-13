@@ -169,8 +169,8 @@ To view a copy of this license, visit: http://creativecommons.org/licenses/by-nc
 | Metric | Status | Details |
 | :--- | :---: | :--- |
 | **Last Commit** | ![Last Commit](https://img.shields.io/github/last-commit/Verkiel-cmd/PRODUCTION_community-registry?style=flat-square&logo=git) | Auto-updated on every push |
-| **Backend Status** | ![Render Status](https://img.shields.io/github/actions/workflow/status/Verkiel-cmd/PRODUCTION_community-registry/main.yml?branch=main&label=Render&style=flat-square&logo=render) | Live Atlas DB + Render API Active |
-| **Frontend Status** | ![Netlify Status](https://img.shields.io/github/actions/workflow/status/Verkiel-cmd/PRODUCTION_community-registry/main.yml?branch=main&label=Netlify&style=flat-square&logo=netlify) | Live Deployed via CI/CD Active |
+| **Backend Status** | ![Render Status](https://api.render.com/deploy/srv-d9g7binaqgkc73bp96n0/badge?branch=main) | Live Atlas DB + Render API Active |
+| **Frontend Status** | ![Netlify Status](https://api.netlify.com/api/v1/badges/22440591-e94f-4a4d-a50c-2a79e581fcd4/deploy-status) | Live Deployed via CI/CD Active |
 | **License** | ![License](https://img.shields.io/github/license/Verkiel-cmd/PRODUCTION_community-registry?style=flat-square) | Open Source |
 </div>
 
@@ -234,8 +234,8 @@ To view a copy of this license, visit: http://creativecommons.org/licenses/by-nc
 | Metric | Status | Details |
 | :--- | :---: | :--- |
 | **Last Commit** | ![Last Commit](https://img.shields.io/github/last-commit/Verkiel-cmd/PRODUCTION_dental-appointment?style=flat-square&logo=git) | Auto-updated on every push |
-| **Backend Status** | ![Render Status](https://img.shields.io/github/actions/workflow/status/Verkiel-cmd/PRODUCTION_dental-appointment/main.yml?branch=main&label=Render&style=flat-square&logo=render) | Live Atlas DB + Render API Active |
-| **Frontend Status** | ![Netlify Status](https://img.shields.io/github/actions/workflow/status/Verkiel-cmd/PRODUCTION_dental-appointment/main.yml?branch=main&label=Netlify&style=flat-square&logo=netlify) | Live Deployed via CI/CD Active |
+| **Backend Status** | ![Render Status](https://api.render.com/deploy/srv-daegtv8u01pc73eeh310/badge?branch=main) | Live Atlas DB + Render API Active |
+| **Frontend Status** | ![Netlify Status](https://api.netlify.com/api/v1/badges/2f87ccbe-548f-4601-ba49-91aa720fe41e/deploy-status) | Live Deployed via CI/CD Active |
 | **License** | ![License](https://img.shields.io/github/license/Verkiel-cmd/PRODUCTION_dental-appointment?style=flat-square) | Open Source |
 </div>
 
@@ -382,8 +382,8 @@ To view a copy of this license, visit: http://creativecommons.org/licenses/by-nc
 | Metric | Status | Details |
 | :--- | :---: | :--- |
 | **Last Commit** | ![Last Commit](https://img.shields.io/github/last-commit/Verkiel-cmd/PRODUCTION_loan-management-frontend?style=flat-square&logo=git) | Auto-updated on every push |
-| **Backend Status** | ![Render Status](https://img.shields.io/github/actions/workflow/status/Verkiel-cmd/PRODUCTION_loan-management-backend/main.yml?branch=main&label=Render&style=flat-square&logo=render) | Live MySQL + Render API Active |
-| **Frontend Status** | ![Netlify Status](https://img.shields.io/github/actions/workflow/status/Verkiel-cmd/PRODUCTION_loan-management-frontend/main.yml?branch=main&label=Netlify&style=flat-square&logo=netlify) | Live Deployed via CI/CD Active |
+| **Backend Status** | ![Render Status](https://api.render.com/deploy/srv-danecmh42hec73e7hjdg/badge?branch=main) | Live MySQL + Render API Active |
+| **Frontend Status** | ![Netlify Status](https://api.netlify.com/api/v1/badges/5bfbfc96-cb98-4ae5-9476-fe1de1b1bd4e/deploy-status) | Live Deployed via CI/CD Active |
 | **License** | ![License](https://img.shields.io/github/license/Verkiel-cmd/PRODUCTION_loan-management-frontend?style=flat-square) | Open Source |
 </div>
 
