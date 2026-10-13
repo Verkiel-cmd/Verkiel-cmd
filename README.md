@@ -234,7 +234,7 @@ To view a copy of this license, visit: http://creativecommons.org/licenses/by-nc
 | Metric | Status | Details |
 | :--- | :---: | :--- |
 | **Last Commit** | ![Last Commit](https://img.shields.io/github/last-commit/Verkiel-cmd/PRODUCTION_dental-appointment?style=flat-square&logo=git) | Auto-updated on every push |
-| **Backend Status** | ![Render Status](https://api.render.com/deploy/srv-daegtv8u01pc73eeh310/badge?branch=main) | Live Atlas DB + Render API Active |
+| **Backend Status** | [![Render](https://img.shields.io/badge/Render-Live-000000?style=flat-square&logo=render)](https://dashboard.render.com/web/srv-daegtv8u01pc73eeh310) | Live Atlas DB + Render API Active |
 | **Frontend Status** | ![Netlify Status](https://api.netlify.com/api/v1/badges/2f87ccbe-548f-4601-ba49-91aa720fe41e/deploy-status) | Live Deployed via CI/CD Active |
 | **License** | ![License](https://img.shields.io/github/license/Verkiel-cmd/PRODUCTION_dental-appointment?style=flat-square) | Open Source |
 </div>
