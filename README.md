@@ -169,7 +169,7 @@ To view a copy of this license, visit: http://creativecommons.org/licenses/by-nc
 | Metric | Status | Details |
 | :--- | :---: | :--- |
 | **Last Commit** | ![Last Commit](https://img.shields.io/github/last-commit/Verkiel-cmd/PRODUCTION_community-registry?style=flat-square&logo=git) | Auto-updated on every push |
-| **Backend Status** | ![Render Status](https://api.render.com/deploy/srv-d9g7binaqgkc73bp96n0/badge?branch=main) | Live Atlas DB + Render API Active |
+| **Backend Status** | [![Render Status](https://img.shields.io/badge/Render-Live-000000?style=flat-square&logo=render)](https://dashboard.render.com/web/srv-d9g7binaqgkc73bp96n0) | Live Atlas DB + Render API Active |
 | **Frontend Status** | ![Netlify Status](https://api.netlify.com/api/v1/badges/22440591-e94f-4a4d-a50c-2a79e581fcd4/deploy-status) | Live Deployed via CI/CD Active |
 | **License** | ![License](https://img.shields.io/github/license/Verkiel-cmd/PRODUCTION_community-registry?style=flat-square) | Open Source |
 </div>
@@ -382,7 +382,7 @@ To view a copy of this license, visit: http://creativecommons.org/licenses/by-nc
 | Metric | Status | Details |
 | :--- | :---: | :--- |
 | **Last Commit** | ![Last Commit](https://img.shields.io/github/last-commit/Verkiel-cmd/PRODUCTION_loan-management-frontend?style=flat-square&logo=git) | Auto-updated on every push |
-| **Backend Status** | ![Render Status](https://api.render.com/deploy/srv-danecmh42hec73e7hjdg/badge?branch=main) | Live MySQL + Render API Active |
+| **Backend Status** | [![Render Status](https://img.shields.io/badge/Render-Live-000000?style=flat-square&logo=render)](https://dashboard.render.com/web/srv-danecmh42hec73e7hjdg) | Live MySQL + Render API Active |
 | **Frontend Status** | ![Netlify Status](https://api.netlify.com/api/v1/badges/5bfbfc96-cb98-4ae5-9476-fe1de1b1bd4e/deploy-status) | Live Deployed via CI/CD Active |
 | **License** | ![License](https://img.shields.io/github/license/Verkiel-cmd/PRODUCTION_loan-management-frontend?style=flat-square) | Open Source |
 </div>
