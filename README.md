@@ -107,7 +107,7 @@ To view a copy of this license, visit: http://creativecommons.org/licenses/by-nc
 | **Last Commit** | ![Last Commit](https://img.shields.io/github/last-commit/Verkiel-cmd/PRODUCTION_student-management-frontend?style=flat-square&logo=git) | Auto-updated on every push |
 | **Backend Status** | ![Render Status](https://img.shields.io/github/actions/workflow/status/Verkiel-cmd/PRODUCTION_student-management-backend/main.yml?branch=main&label=Render&style=flat-square&logo=render) | Live Aiven DB + Render API Active |
 | **Frontend Status** | ![Netlify Status](https://img.shields.io/github/actions/workflow/status/Verkiel-cmd/PRODUCTION_student-management-frontend/main.yml?branch=main&label=Netlify&style=flat-square&logo=netlify) | Live Deployed via CI/CD Active |
-| **License** | ![License](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey?style=flat-square) | Source-Available (view only, no commercial use, no derivatives) |
+| **License** | ![License](https://img.shields.io/badge/License-PolyForm%20Strict%201.0.0-blue?style=flat-square) | Source-available (noncommercial use only, no changes, no sharing) |
 </div>
 
 <div align="center">
@@ -171,7 +171,7 @@ To view a copy of this license, visit: http://creativecommons.org/licenses/by-nc
 | **Last Commit** | ![Last Commit](https://img.shields.io/github/last-commit/Verkiel-cmd/PRODUCTION_community-registry?style=flat-square&logo=git) | Auto-updated on every push |
 | **Backend Status** | [![Render Status](https://img.shields.io/badge/Render-Live-000000?style=flat-square&logo=render)](https://dashboard.render.com/web/srv-d9g7binaqgkc73bp96n0) | Live Atlas DB + Render API Active |
 | **Frontend Status** | ![Netlify Status](https://api.netlify.com/api/v1/badges/22440591-e94f-4a4d-a50c-2a79e581fcd4/deploy-status) | Live Deployed via CI/CD Active |
-| **License** | ![License](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey?style=flat-square) | Source-Available (view only, no commercial use, no derivatives) |
+| **License** | ![License](https://img.shields.io/badge/License-PolyForm%20Strict%201.0.0-blue?style=flat-square) | Source-available (noncommercial use only, no changes, no sharing) |
 </div>
 
 <div align="center">
@@ -236,7 +236,7 @@ To view a copy of this license, visit: http://creativecommons.org/licenses/by-nc
 | **Last Commit** | ![Last Commit](https://img.shields.io/github/last-commit/Verkiel-cmd/PRODUCTION_dental-appointment?style=flat-square&logo=git) | Auto-updated on every push |
 | **Backend Status** | [![Render](https://img.shields.io/badge/Render-Live-000000?style=flat-square&logo=render)](https://dashboard.render.com/web/srv-daegtv8u01pc73eeh310) | Live Atlas DB + Render API Active |
 | **Frontend Status** | ![Netlify Status](https://api.netlify.com/api/v1/badges/2f87ccbe-548f-4601-ba49-91aa720fe41e/deploy-status) | Live Deployed via CI/CD Active |
-| **License** | ![License](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey?style=flat-square) | Source-Available (view only, no commercial use, no derivatives) |
+| **License** | ![License](https://img.shields.io/badge/License-PolyForm%20Strict%201.0.0-blue?style=flat-square) | Source-available (noncommercial use only, no changes, no sharing) |
 </div>
 
 <!-- SOON FOR FUTURE UPDATES -->
@@ -308,7 +308,7 @@ To view a copy of this license, visit: http://creativecommons.org/licenses/by-nc
 | :--- | :---: | :--- |
 | **Last Commit** | ![Last Commit](https://img.shields.io/github/last-commit/Verkiel-cmd/PRODUCTION_dental-app?style=flat-square&logo=git) | Auto-updated on every push |
 | **Latest Release** | ![Latest Release](https://img.shields.io/github/v/release/Verkiel-cmd/PRODUCTION_dental-app?style=flat-square&logo=android&logoColor=white&color=3DDC84) | Signed APK available on GitHub Releases |
-| **License** | ![License](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey?style=flat-square) | Source-Available (view only, no commercial use, no derivatives) |
+| **License** | ![License](https://img.shields.io/badge/License-PolyForm%20Strict%201.0.0-blue?style=flat-square) | Source-available (noncommercial use only, no changes, no sharing) |
 
 <!-- SOON FOR FUTURE UPDATES -->
 
@@ -384,7 +384,7 @@ To view a copy of this license, visit: http://creativecommons.org/licenses/by-nc
 | **Last Commit** | ![Last Commit](https://img.shields.io/github/last-commit/Verkiel-cmd/PRODUCTION_loan-management-frontend?style=flat-square&logo=git) | Auto-updated on every push |
 | **Backend Status** | [![Render Status](https://img.shields.io/badge/Render-Live-000000?style=flat-square&logo=render)](https://dashboard.render.com/web/srv-danecmh42hec73e7hjdg) | Live MySQL + Render API Active |
 | **Frontend Status** | ![Netlify Status](https://api.netlify.com/api/v1/badges/5bfbfc96-cb98-4ae5-9476-fe1de1b1bd4e/deploy-status) | Live Deployed via CI/CD Active |
-| **License** | ![License](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey?style=flat-square) | Source-Available (view only, no commercial use, no derivatives) |
+| **License** | ![License](https://img.shields.io/badge/License-PolyForm%20Strict%201.0.0-blue?style=flat-square) | Source-available (noncommercial use only, no changes, no sharing) |
 </div>
 
 <!-- SOON FOR FUTURE UPDATES -->
