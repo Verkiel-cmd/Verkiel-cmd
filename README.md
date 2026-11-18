@@ -155,7 +155,7 @@ The **licensor** is the individual or entity offering these terms, and the **sof
 | Metric | Status | Details |
 | :--- | :---: | :--- |
 | **Last Commit** | ![Last Commit](https://img.shields.io/github/last-commit/Verkiel-cmd/PRODUCTION_student-management-frontend?style=flat-square&logo=git) | Auto-updated on every push |
-| **Backend Status** | ![Render Status](https://img.shields.io/github/actions/workflow/status/Verkiel-cmd/PRODUCTION_student-management-backend/main.yml?branch=main&label=Render&style=flat-square&logo=render) | Live Aiven DB + Render API Active |
+| **Backend Status** | ![Render Status](https://img.shields.io/github/actions/workflow/status/Verkiel-cmd/PRODUCTION_student-management-backend/main.yml?branch=main&label=Render&style=flat-square&logo=render) | Live TiDB + Render API Active |
 | **Frontend Status** | ![Netlify Status](https://img.shields.io/github/actions/workflow/status/Verkiel-cmd/PRODUCTION_student-management-frontend/main.yml?branch=main&label=Netlify&style=flat-square&logo=netlify) | Live Deployed via CI/CD Active |
 | **License** | ![License](https://img.shields.io/badge/License-PolyForm%20Strict%201.0.0-blue?style=flat-square) | Source-available (noncommercial use only, no changes, no sharing) |
 </div>
@@ -285,7 +285,7 @@ The **licensor** is the individual or entity offering these terms, and the **sof
 | Metric | Status | Details |
 | :--- | :---: | :--- |
 | **Last Commit** | ![Last Commit](https://img.shields.io/github/last-commit/Verkiel-cmd/PRODUCTION_dental-appointment?style=flat-square&logo=git) | Auto-updated on every push |
-| **Backend Status** | [![Render](https://img.shields.io/badge/Render-Live-000000?style=flat-square&logo=render)](https://dashboard.render.com/web/srv-daegtv8u01pc73eeh310) | Live Atlas DB + Render API Active |
+| **Backend Status** | [![Render](https://img.shields.io/badge/Render-Live-000000?style=flat-square&logo=render)](https://dashboard.render.com/web/srv-daegtv8u01pc73eeh310) | Live TiDB + Render API Active |
 | **Frontend Status** | ![Netlify Status](https://api.netlify.com/api/v1/badges/2f87ccbe-548f-4601-ba49-91aa720fe41e/deploy-status) | Live Deployed via CI/CD Active |
 | **License** | ![License](https://img.shields.io/badge/License-PolyForm%20Strict%201.0.0-blue?style=flat-square) | Source-available (noncommercial use only, no changes, no sharing) |
 </div>
@@ -308,6 +308,20 @@ The **licensor** is the individual or entity offering these terms, and the **sof
   <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
 </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
